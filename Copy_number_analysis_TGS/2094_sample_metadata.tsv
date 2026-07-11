@@ -1,0 +1,364 @@
+Sample	SeqX	CellType	Origin	FocusGroup	FocusScore	Diagnosis
+PD30967b_hum	275	Plasmablasts	biopsy	FS2-3	3	Yes
+PD30967c_hum	442	Cytotoxic T Cells	biopsy	FS2-3	3	Yes
+PD30967g_hum	495	DR+ Cells	biopsy	FS2-3	3	Yes
+PD30967h_hum	503	Plasma Cells	biopsy	FS2-3	3	Yes
+PD30967i_hum	261	Stroma	biopsy	FS2-3	3	Yes
+PD30967k_hum	416	B Cells	biopsy	FS2-3	3	Yes
+PD30967m_hum	70	Bulk lymphocytes	biopsy	FS2-3	3	Yes
+PD30968b_hum	435	Plasma Cells	biopsy	FS2-3	2	Yes
+PD30968d_hum	453	Bulk B cells	biopsy	FS2-3	2	Yes
+PD30968g_hum	298	Helper T cells	biopsy	FS2-3	2	Yes
+PD30968k_hum	77	Bulk lymphocytes	biopsy	FS2-3	2	Yes
+PD30969b_hum	277	B Cells	biopsy	NonPSS	0	No
+PD30969c_hum	466	Plasmablasts	biopsy	NonPSS	0	No
+PD30969d_hum	332	Cytotoxic T Cells	biopsy	NonPSS	0	No
+PD30969f_hum	504	Plasma Cells	biopsy	NonPSS	0	No
+PD30969l_hum	424	Fibroblasts	biopsy	NonPSS	0	No
+PD30970f_hum	341	DR- Cells	biopsy	FS2-3	3	Yes
+PD30970k_hum	411	Helper T cells	biopsy	FS2-3	3	Yes
+PD30971b_hum	425	Bulk T cells	biopsy	FS4-5	4	Yes
+PD30972b_hum	501	DR- Cells	biopsy	Early/FLS	0	Amb
+PD30973b_hum	472	Bulk B cells	biopsy	Early/FLS	0	Yes
+PD30974b_hum	528	DR- Cells	biopsy	NonPSS	0	No
+PD30975b_hum	500	Plasmablasts	biopsy	NonPSS	0	No
+PD30977b_hum	360	Plasma Cells	biopsy	FS4-5	4	Yes
+PD30977j_hum	496	Fibroblasts	biopsy	FS4-5	4	Yes
+PD30978e_hum	967	Bulk lymphocytes	biopsy	Early/FLS	1	Yes
+PD30979h_hum	821	Bulk lymphocytes	biopsy	FS2-3	2	Yes
+PD30979j_hum	663	Fibroblasts	biopsy	FS2-3	2	Yes
+PD40668a_hum	603	Fibroblasts	biopsy	FS4-5	5	Yes
+PD40668c_hum	13	Helper T cells	biopsy	FS4-5	5	Yes
+PD40668d_hum	51	Cytotoxic T Cells	biopsy	FS4-5	5	Yes
+PD40668e_hum	131	B Cells	biopsy	FS4-5	5	Yes
+PD40668f_hum	9	Plasmablasts	biopsy	FS4-5	5	Yes
+PD40668g_hum	99	Plasma Cells	biopsy	FS4-5	5	Yes
+PD40668h_hum	30	CD19-CD38- cells	biopsy	FS4-5	5	Yes
+PD40668i_hum	6	PBMC - Helper T cells	PBMC	FS4-5	5	Yes
+PD40668j_hum	105	PBMC - Cytotoxic T cells	PBMC	FS4-5	5	Yes
+PD40668k_hum	503	PBMC - B cells	PBMC	FS4-5	5	Yes
+PD40668l_hum	86	PBMC - Plasmablasts	PBMC	FS4-5	5	Yes
+PD40668m_hum	65	PMBC - monocyte	biopsy	FS4-5	5	Yes
+PD40669a_hum	228	Fibroblasts	biopsy	Early/FLS	1	Yes
+PD40669c_hum	36	Helper T cells	biopsy	Early/FLS	1	Yes
+PD40669d_hum	79	Cytotoxic T Cells	biopsy	Early/FLS	1	Yes
+PD40669e_hum	81	B Cells	biopsy	Early/FLS	1	Yes
+PD40669f_hum	52	Plasmablasts	biopsy	Early/FLS	1	Yes
+PD40669g_hum	90	Plasma Cells	biopsy	Early/FLS	1	Yes
+PD40669h_hum	30	CD19-CD38- cells	biopsy	Early/FLS	1	Yes
+PD40669i_hum	90	PBMC - Helper T cells	PBMC	Early/FLS	1	Yes
+PD40669j_hum	98	PBMC - Cytotoxic T cells	PBMC	Early/FLS	1	Yes
+PD40669k_hum	64	PBMC - B cells	PBMC	Early/FLS	1	Yes
+PD40669l_hum	65	PBMC - Plasmablasts	PBMC	Early/FLS	1	Yes
+PD40669m_hum	79	PMBC - monocyte	biopsy	Early/FLS	1	Yes
+PD40669n_hum	138	PMBC - NK cell	biopsy	Early/FLS	1	Yes
+PD42040a_hum	46	Helper T cells	biopsy	Early/FLS	0	Amb
+PD42040c_hum	69	Cytotoxic T Cells	biopsy	Early/FLS	0	Amb
+PD42040e_hum	38	Plasmablasts	biopsy	Early/FLS	0	Amb
+PD42040f_hum	40	Plasma Cells	biopsy	Early/FLS	0	Amb
+PD42040g_hum	71	CD19-CD38- cells	biopsy	Early/FLS	0	Amb
+PD42040h_hum	178	Fibroblasts	biopsy	Early/FLS	0	Amb
+PD42041a_hum	37	Helper T cells	biopsy	FS4-5	4	Yes
+PD42041c_hum	19	Cytotoxic T Cells	biopsy	FS4-5	4	Yes
+PD42041d_hum	73	B Cells	biopsy	FS4-5	4	Yes
+PD42041f_hum	65	Plasma Cells	biopsy	FS4-5	4	Yes
+PD42041h_hum	224	Fibroblasts	biopsy	FS4-5	4	Yes
+PD42041i_hum	333	PBMC - Helper T cells	PBMC	FS4-5	4	Yes
+PD42041j_hum	429	PBMC - Cytotoxic T cells	PBMC	FS4-5	4	Yes
+PD42041k_hum	319	PBMC - B cells	PBMC	FS4-5	4	Yes
+PD42041m_hum	464	PMBC - monocyte	biopsy	FS4-5	4	Yes
+PD42042a_hum	30	Bulk T cells	biopsy	NonPSS	0	No
+PD42042c_hum	44	B Cells	biopsy	NonPSS	0	No
+PD42042d_hum	54	Plasmablasts	biopsy	NonPSS	0	No
+PD42042f_hum	66	CD19-CD38- cells	biopsy	NonPSS	0	No
+PD42042g_hum	199	Fibroblasts	biopsy	NonPSS	0	No
+PD42053a_hum	106	Helper T cells	biopsy	FS2-3	2	Yes
+PD42053c_hum	39	Cytotoxic T Cells	biopsy	FS2-3	2	Yes
+PD42053d_hum	161	B Cells	biopsy	FS2-3	2	Yes
+PD42053e_hum	106	Plasmablasts	biopsy	FS2-3	2	Yes
+PD42053f_hum	145	Plasma Cells	biopsy	FS2-3	2	Yes
+PD42053g_hum	172	CD19-CD38- cells	biopsy	FS2-3	2	Yes
+PD42053h_hum	175	Fibroblasts	biopsy	FS2-3	2	Yes
+PD42054c_hum	37	Cytotoxic T Cells	biopsy	FS2-3	2	Yes
+PD42054d_hum	43	B Cells	biopsy	FS2-3	2	Yes
+PD42054e_hum	58	Plasmablasts	biopsy	FS2-3	2	Yes
+PD42054h_hum	171	Fibroblasts	biopsy	FS2-3	2	Yes
+PD42054i_hum	391	PBMC - Helper T cells	PBMC	FS2-3	2	Yes
+PD42054j_hum	342	PBMC - Cytotoxic T cells	PBMC	FS2-3	2	Yes
+PD42054k_hum	292	PBMC - B cells	PBMC	FS2-3	2	Yes
+PD42054l_hum	27	PBMC - Plasmablasts	PBMC	FS2-3	2	Yes
+PD42054m_hum	308	PMBC - monocyte	biopsy	FS2-3	2	Yes
+PD42054n_hum	222	PMBC - NK cell	biopsy	FS2-3	2	Yes
+PD42055a_hum	37	Helper T cells	biopsy	Early/FLS	0	Amb
+PD42055c_hum	60	Cytotoxic T Cells	biopsy	Early/FLS	0	Amb
+PD42055d_hum	20	B Cells	biopsy	Early/FLS	0	Amb
+PD42055g_hum	59	CD19-CD38- cells	biopsy	Early/FLS	0	Amb
+PD42055h_hum	225	Fibroblasts	biopsy	Early/FLS	0	Amb
+PD42056a_hum	55	Helper T cells	biopsy	FS4-5	5	Yes
+PD42056c_hum	71	Cytotoxic T Cells	biopsy	FS4-5	5	Yes
+PD42056d_hum	34	B Cells	biopsy	FS4-5	5	Yes
+PD42056e_hum	75	Plasmablasts	biopsy	FS4-5	5	Yes
+PD42056f_hum	78	Plasma Cells	biopsy	FS4-5	5	Yes
+PD42056g_hum	55	CD19-CD38- cells	biopsy	FS4-5	5	Yes
+PD42056h_hum	165	Fibroblasts	biopsy	FS4-5	5	Yes
+PD42057a_hum	19	Bulk lymphocytes	biopsy	Early/FLS	1	Amb
+PD42057c_hum	26	Stroma	biopsy	Early/FLS	1	Amb
+PD42057d_hum	81	PBMC - Helper T cells	PBMC	Early/FLS	1	Amb
+PD42057e_hum	163	PBMC - Cytotoxic T cells	PBMC	Early/FLS	1	Amb
+PD42057f_hum	82	PBMC - B cells	PBMC	Early/FLS	1	Amb
+PD42057g_hum	20	PBMC - Plasmablasts	PBMC	Early/FLS	1	Amb
+PD42057h_hum	146	PMBC - monocyte	biopsy	Early/FLS	1	Amb
+PD42057i_hum	108	PMBC - NK cell	biopsy	Early/FLS	1	Amb
+PD42058a_hum	17	Bulk lymphocytes	biopsy	Early/FLS	1	Amb
+PD42060a_hum	25	Bulk T cells	biopsy	Early/FLS	1	Amb
+PD42060c_hum	37	B Cells	biopsy	Early/FLS	1	Amb
+PD42060d_hum	34	Plasmablasts	biopsy	Early/FLS	1	Amb
+PD42060e_hum	53	Plasma Cells	biopsy	Early/FLS	1	Amb
+PD42060f_hum	61	CD19-CD38- cells	biopsy	Early/FLS	1	Amb
+PD42060g_hum	108	Fibroblasts	biopsy	Early/FLS	1	Amb
+PD42060h_hum	95	Fibroblasts	biopsy	Early/FLS	1	Amb
+PD42060i_hum	379	PBMC - Helper T cells	PBMC	Early/FLS	1	Amb
+PD42060j_hum	316	PBMC - Cytotoxic T cells	PBMC	Early/FLS	1	Amb
+PD42060k_hum	361	PBMC - B cells	PBMC	Early/FLS	1	Amb
+PD42060l_hum	112	PBMC - Plasmablasts	PBMC	Early/FLS	1	Amb
+PD42060m_hum	86	PMBC - monocyte	biopsy	Early/FLS	1	Amb
+PD42060n_hum	148	PMBC - NK cell	biopsy	Early/FLS	1	Amb
+PD42061a_hum	83	Helper T cells	biopsy	FS4-5	4	Yes
+PD42061c_hum	66	Cytotoxic T Cells	biopsy	FS4-5	4	Yes
+PD42061e_hum	78	Plasmablasts	biopsy	FS4-5	4	Yes
+PD42061f_hum	21	Plasma Cells	biopsy	FS4-5	4	Yes
+PD42061h_hum	130	Fibroblasts	biopsy	FS4-5	4	Yes
+PD42061i_hum	175	Fibroblasts	biopsy	FS4-5	4	Yes
+PD42061j_hum	140	PBMC - Helper T cells	PBMC	FS4-5	4	Yes
+PD42061k_hum	110	PBMC - Cytotoxic T cells	PBMC	FS4-5	4	Yes
+PD42061l_hum	84	PBMC - B cells	PBMC	FS4-5	4	Yes
+PD42061m_hum	117	PBMC - Plasmablasts	PBMC	FS4-5	4	Yes
+PD42061n_hum	111	PMBC - monocyte	biopsy	FS4-5	4	Yes
+PD42061o_hum	25	PMBC - NK cell	biopsy	FS4-5	4	Yes
+PD42062c_hum	144	Fibroblasts	biopsy	NonPSS	0	No
+PD42062d_hum	451	PBMC - Helper T cells	PBMC	NonPSS	0	No
+PD42062e_hum	550	PBMC - Cytotoxic T cells	PBMC	NonPSS	0	No
+PD42062f_hum	319	PBMC - B cells	PBMC	NonPSS	0	No
+PD42062h_hum	532	PMBC - monocyte	biopsy	NonPSS	0	No
+PD42063a_hum	49	Bulk lymphocytes	biopsy	FS2-3	3	Yes
+PD42063c_hum	49	Fibroblasts	biopsy	FS2-3	3	Yes
+PD42064a_hum	31	Helper T cells	biopsy	FS2-3	2	Yes
+PD42064d_hum	49	B Cells	biopsy	FS2-3	2	Yes
+PD42064e_hum	51	Plasmablasts	biopsy	FS2-3	2	Yes
+PD42064f_hum	75	Plasma Cells	biopsy	FS2-3	2	Yes
+PD42064g_hum	79	CD19-CD38- cells	biopsy	FS2-3	2	Yes
+PD42064h_hum	187	Fibroblasts	biopsy	FS2-3	2	Yes
+PD42065a_hum	37	B Cells	biopsy	NonPSS	0	No
+PD42065c_hum	31	Plasmablasts	biopsy	NonPSS	0	No
+PD42065d_hum	46	Plasma Cells	biopsy	NonPSS	0	No
+PD42065f_hum	124	Fibroblasts	biopsy	NonPSS	0	No
+PD42065g_hum	485	PBMC - Helper T cells	PBMC	NonPSS	0	No
+PD42065h_hum	495	PBMC - Cytotoxic T cells	PBMC	NonPSS	0	No
+PD42065i_hum	459	PBMC - B cells	PBMC	NonPSS	0	No
+PD42065k_hum	377	PMBC - monocyte	biopsy	NonPSS	0	No
+PD42066a_hum	77	Helper T cells	biopsy	Early/FLS	0	Amb
+PD42066c_hum	64	Cytotoxic T Cells	biopsy	Early/FLS	0	Amb
+PD42066d_hum	27	B Cells	biopsy	Early/FLS	0	Amb
+PD42066e_hum	36	Plasmablasts	biopsy	Early/FLS	0	Amb
+PD42066f_hum	65	Plasma Cells	biopsy	Early/FLS	0	Amb
+PD42066h_hum	187	Fibroblasts	biopsy	Early/FLS	0	Amb
+PD42066i_hum	328	PBMC - Helper T cells	PBMC	Early/FLS	0	Amb
+PD42066j_hum	341	PBMC - Cytotoxic T cells	PBMC	Early/FLS	0	Amb
+PD42066k_hum	232	PBMC - B cells	PBMC	Early/FLS	0	Amb
+PD42066l_hum	150	PBMC - Plasmablasts	PBMC	Early/FLS	0	Amb
+PD42066m_hum	292	PMBC - monocyte	biopsy	Early/FLS	0	Amb
+PD42066n_hum	259	PMBC - NK cell	biopsy	Early/FLS	0	Amb
+PD42067a_hum	37	Helper T cells	biopsy	FS2-3	2	Yes
+PD42067f_hum	36	Plasma Cells	biopsy	FS2-3	2	Yes
+PD42067g_hum	22	CD19-CD38- cells	biopsy	FS2-3	2	Yes
+PD42068a_hum	27	Helper T cells	biopsy	Early/FLS	1	Amb
+PD42068c_hum	62	Cytotoxic T Cells	biopsy	Early/FLS	1	Amb
+PD42068d_hum	42	B Cells	biopsy	Early/FLS	1	Amb
+PD42068e_hum	27	Plasmablasts	biopsy	Early/FLS	1	Amb
+PD42068f_hum	69	Plasma Cells	biopsy	Early/FLS	1	Amb
+PD42068g_hum	68	CD19-CD38- cells	biopsy	Early/FLS	1	Amb
+PD42068h_hum	203	Fibroblasts	biopsy	Early/FLS	1	Amb
+PD42068i_hum	234	PBMC - Helper T cells	PBMC	Early/FLS	1	Amb
+PD42068j_hum	289	PBMC - Cytotoxic T cells	PBMC	Early/FLS	1	Amb
+PD42068k_hum	143	PBMC - B cells	PBMC	Early/FLS	1	Amb
+PD42068l_hum	287	PBMC - Plasmablasts	PBMC	Early/FLS	1	Amb
+PD42068m_hum	333	PMBC - monocyte	biopsy	Early/FLS	1	Amb
+PD42068n_hum	330	PMBC - NK cell	biopsy	Early/FLS	1	Amb
+PD42069a_hum	48	Bulk lymphocytes	biopsy	NonPSS	0	No
+PD42069c_hum	112	Fibroblasts	biopsy	NonPSS	0	No
+PD42069d_hum	63	Stroma	biopsy	NonPSS	0	No
+PD42069e_hum	90	PBMC - Helper T cells	PBMC	NonPSS	0	No
+PD42069f_hum	151	PBMC - Cytotoxic T cells	PBMC	NonPSS	0	No
+PD42069g_hum	180	PBMC - B cells	PBMC	NonPSS	0	No
+PD42069h_hum	67	PBMC - Plasmablasts	PBMC	NonPSS	0	No
+PD42069i_hum	129	PMBC - monocyte	biopsy	NonPSS	0	No
+PD42069j_hum	117	PMBC - NK cell	biopsy	NonPSS	0	No
+PD42070a_hum	101	Bulk lymphocytes	biopsy	FS2-3	3	Yes
+PD42070c_hum	192	Helper T cells	biopsy	FS2-3	3	Yes
+PD42070d_hum	221	Cytotoxic T Cells	biopsy	FS2-3	3	Yes
+PD42070e_hum	190	B Cells	biopsy	FS2-3	3	Yes
+PD42070f_hum	39	Plasmablasts	biopsy	FS2-3	3	Yes
+PD42070g_hum	39	Plasma Cells	biopsy	FS2-3	3	Yes
+PD42070h_hum	74	CD19-CD38- cells	biopsy	FS2-3	3	Yes
+PD42070i_hum	69	Fibroblasts	biopsy	FS2-3	3	Yes
+PD42070j_hum	205	Stroma	biopsy	FS2-3	3	Yes
+PD42070k_hum	107	PBMC - Helper T cells	PBMC	FS2-3	3	Yes
+PD42070l_hum	129	PBMC - Cytotoxic T cells	PBMC	FS2-3	3	Yes
+PD42070m_hum	124	PBMC - B cells	PBMC	FS2-3	3	Yes
+PD42070o_hum	110	PMBC - monocyte	biopsy	FS2-3	3	Yes
+PD42071a_hum	172	Helper T cells	biopsy	FS2-3	3	Yes
+PD42071c_hum	33	Cytotoxic T Cells	biopsy	FS2-3	3	Yes
+PD42071d_hum	154	B Cells	biopsy	FS2-3	3	Yes
+PD42071f_hum	60	Plasma Cells	biopsy	FS2-3	3	Yes
+PD42071h_hum	79	Fibroblasts	biopsy	FS2-3	3	Yes
+PD42071j_hum	59	PBMC - Helper T cells	PBMC	FS2-3	3	Yes
+PD42071l_hum	108	PBMC - B cells	PBMC	FS2-3	3	Yes
+PD42071n_hum	164	PMBC - monocyte	biopsy	FS2-3	3	Yes
+PD42071o_hum	205	PMBC - NK cell	biopsy	FS2-3	3	Yes
+PD42072a_hum	140	Helper T cells	biopsy	FS2-3	3	Yes
+PD42072c_hum	117	Cytotoxic T Cells	biopsy	FS2-3	3	Yes
+PD42072d_hum	146	B Cells	biopsy	FS2-3	3	Yes
+PD42072e_hum	73	Plasmablasts	biopsy	FS2-3	3	Yes
+PD42072f_hum	32	Plasma Cells	biopsy	FS2-3	3	Yes
+PD42072g_hum	84	CD19-CD38- cells	biopsy	FS2-3	3	Yes
+PD42072h_hum	69	Fibroblasts	biopsy	FS2-3	3	Yes
+PD42072i_hum	37	Stroma	biopsy	FS2-3	3	Yes
+PD42073a_hum	74	Helper T cells	biopsy	FS2-3	3	Yes
+PD42073c_hum	25	Cytotoxic T Cells	biopsy	FS2-3	3	Yes
+PD42073d_hum	147	B Cells	biopsy	FS2-3	3	Yes
+PD42073e_hum	109	Plasmablasts	biopsy	FS2-3	3	Yes
+PD42073h_hum	75	Fibroblasts	biopsy	FS2-3	3	Yes
+PD42073i_hum	49	PBMC - Helper T cells	PBMC	FS2-3	3	Yes
+PD42073j_hum	48	PBMC - Cytotoxic T cells	PBMC	FS2-3	3	Yes
+PD42073k_hum	35	PBMC - B cells	PBMC	FS2-3	3	Yes
+PD42073l_hum	79	PBMC - Plasmablasts	PBMC	FS2-3	3	Yes
+PD42073m_hum	163	PMBC - monocyte	biopsy	FS2-3	3	Yes
+PD42073n_hum	164	PMBC - NK cell	biopsy	FS2-3	3	Yes
+PD42075a_hum	79	Helper T cells	biopsy	FS2-3	3	Yes
+PD42075c_hum	88	Cytotoxic T Cells	biopsy	FS2-3	3	Yes
+PD42075d_hum	64	B Cells	biopsy	FS2-3	3	Yes
+PD42075e_hum	65	Plasmablasts	biopsy	FS2-3	3	Yes
+PD42075f_hum	75	Plasma Cells	biopsy	FS2-3	3	Yes
+PD42075g_hum	72	CD19-CD38- cells	biopsy	FS2-3	3	Yes
+PD42075h_hum	90	Fibroblasts	biopsy	FS2-3	3	Yes
+PD42076a_hum	77	Helper T cells	biopsy	Early/FLS	1	Amb
+PD42076c_hum	99	Cytotoxic T Cells	biopsy	Early/FLS	1	Amb
+PD42076d_hum	68	B Cells	biopsy	Early/FLS	1	Amb
+PD42076e_hum	70	Plasmablasts	biopsy	Early/FLS	1	Amb
+PD42076f_hum	271	Plasma Cells	biopsy	Early/FLS	1	Amb
+PD42076g_hum	230	CD19-CD38- cells	biopsy	Early/FLS	1	Amb
+PD42076h_hum	196	Fibroblasts	biopsy	Early/FLS	1	Amb
+PD42077a_hum	162	Helper T cells	biopsy	FS2-3	3	Yes
+PD42077c_hum	279	Cytotoxic T Cells	biopsy	FS2-3	3	Yes
+PD42077d_hum	95	B Cells	biopsy	FS2-3	3	Yes
+PD42077e_hum	234	Plasmablasts	biopsy	FS2-3	3	Yes
+PD42077f_hum	234	Plasma Cells	biopsy	FS2-3	3	Yes
+PD42077g_hum	291	CD19-CD38- cells	biopsy	FS2-3	3	Yes
+PD42077h_hum	52	Fibroblasts	biopsy	FS2-3	3	Yes
+PD42078a_hum	176	Helper T cells	biopsy	FS4-5	4	Yes
+PD42078c_hum	275	Cytotoxic T Cells	biopsy	FS4-5	4	Yes
+PD42078d_hum	214	B Cells	biopsy	FS4-5	4	Yes
+PD42078e_hum	79	Plasmablasts	biopsy	FS4-5	4	Yes
+PD42078f_hum	65	Plasma Cells	biopsy	FS4-5	4	Yes
+PD42078g_hum	257	CD19-CD38- cells	biopsy	FS4-5	4	Yes
+PD42078h_hum	215	Fibroblasts	biopsy	FS4-5	4	Yes
+PD42079a_hum	174	Helper T cells	biopsy	FS2-3	2	Yes
+PD42079c_hum	299	Cytotoxic T Cells	biopsy	FS2-3	2	Yes
+PD42079d_hum	161	B Cells	biopsy	FS2-3	2	Yes
+PD42079e_hum	132	Plasmablasts	biopsy	FS2-3	2	Yes
+PD42079f_hum	110	Plasma Cells	biopsy	FS2-3	2	Yes
+PD42079g_hum	191	CD19-CD38- cells	biopsy	FS2-3	2	Yes
+PD42079h_hum	188	Fibroblasts	biopsy	FS2-3	2	Yes
+PD42079j_hum	149	PBMC - Helper T cells	PBMC	FS2-3	2	Yes
+PD42079l_hum	62	PBMC - B cells	PBMC	FS2-3	2	Yes
+PD42079n_hum	139	PMBC - monocyte	biopsy	FS2-3	2	Yes
+PD42080f_hum	110	Fibroblasts	biopsy	FS4-5	4	Yes
+PD42080g_hum	22	Stroma	biopsy	FS4-5	4	Yes
+PD42081c_hum	120	Cytotoxic T Cells	biopsy	NonPSS	0	N
+PD42081e_hum	21	Plasmablasts	biopsy	NonPSS	0	N
+PD42081f_hum	32	Plasma Cells	biopsy	NonPSS	0	N
+PD42081g_hum	125	CD19-CD38- cells	biopsy	NonPSS	0	N
+PD42081h_hum	110	Fibroblasts	biopsy	NonPSS	0	N
+PD42081j_hum	125	PBMC - Helper T cells	PBMC	NonPSS	0	N
+PD42081k_hum	95	PBMC - Cytotoxic T cells	PBMC	NonPSS	0	N
+PD42081l_hum	52	PBMC - B cells	PBMC	NonPSS	0	N
+PD42081m_hum	170	PBMC - Plasmablasts	PBMC	NonPSS	0	N
+PD42081o_hum	141	PMBC - NK cell	biopsy	NonPSS	0	N
+PD42082a_hum	58	Helper T cells	biopsy	Early/FLS	1	Yes
+PD42082c_hum	22	Cytotoxic T Cells	biopsy	Early/FLS	1	Yes
+PD42082d_hum	48	Bulk B cells	biopsy	Early/FLS	1	Yes
+PD42082e_hum	208	CD19-CD38- cells	biopsy	Early/FLS	1	Yes
+PD42082f_hum	76	Fibroblasts	biopsy	Early/FLS	1	Yes
+PD42082g_hum	13	Stroma	biopsy	Early/FLS	1	Yes
+PD42083a_hum	184	Helper T cells	biopsy	FS2-3	2	Yes
+PD42083c_hum	319	Cytotoxic T Cells	biopsy	FS2-3	2	Yes
+PD42083d_hum	141	B Cells	biopsy	FS2-3	2	Yes
+PD42083f_hum	20	Plasma Cells	biopsy	FS2-3	2	Yes
+PD42083g_hum	274	CD19-CD38- cells	biopsy	FS2-3	2	Yes
+PD42084a_hum	116	Helper T cells	biopsy	NonPSS	1	No
+PD42084c_hum	191	Cytotoxic T Cells	biopsy	NonPSS	1	No
+PD42084d_hum	36	B Cells	biopsy	NonPSS	1	No
+PD42084e_hum	34	Plasmablasts	biopsy	NonPSS	1	No
+PD42084g_hum	219	CD19-CD38- cells	biopsy	NonPSS	1	No
+PD42084h_hum	44	Fibroblasts	biopsy	NonPSS	1	No
+PD42084i_hum	8	Stroma	biopsy	NonPSS	1	No
+PD42084j_hum	147	PBMC - Helper T cells	PBMC	NonPSS	1	No
+PD42084k_hum	31	PBMC - Cytotoxic T cells	PBMC	NonPSS	1	No
+PD42084l_hum	25	PBMC - B cells	PBMC	NonPSS	1	No
+PD42084m_hum	72	PBMC - Plasmablasts	PBMC	NonPSS	1	No
+PD42084o_hum	175	PMBC - NK cell	biopsy	NonPSS	1	No
+PD42085a_hum	220	Helper T cells	biopsy	NonPSS	1	No
+PD42085c_hum	234	Cytotoxic T Cells	biopsy	NonPSS	1	No
+PD42085d_hum	123	B Cells	biopsy	NonPSS	1	No
+PD42085e_hum	27	Plasmablasts	biopsy	NonPSS	1	No
+PD42085f_hum	16	Plasma Cells	biopsy	NonPSS	1	No
+PD42085g_hum	224	CD19-CD38- cells	biopsy	NonPSS	1	No
+PD42085h_hum	41	Fibroblasts	biopsy	NonPSS	1	No
+PD42085i_hum	9	Stroma	biopsy	NonPSS	1	No
+PD42085j_hum	111	PBMC - Helper T cells	PBMC	NonPSS	1	No
+PD42085k_hum	136	PBMC - Cytotoxic T cells	PBMC	NonPSS	1	No
+PD42085l_hum	145	PBMC - B cells	PBMC	NonPSS	1	No
+PD42085m_hum	50	PBMC - Plasmablasts	PBMC	NonPSS	1	No
+PD42085o_hum	26	PMBC - NK cell	biopsy	NonPSS	1	No
+PD42086a_hum	74	Helper T cells	biopsy	FS2-3	2	Yes
+PD42086c_hum	107	Cytotoxic T Cells	biopsy	FS2-3	2	Yes
+PD42086d_hum	137	B Cells	biopsy	FS2-3	2	Yes
+PD42086e_hum	31	Plasmablasts	biopsy	FS2-3	2	Yes
+PD42086g_hum	150	CD19-CD38- cells	biopsy	FS2-3	2	Yes
+PD42086j_hum	171	PBMC - Helper T cells	PBMC	FS2-3	2	Yes
+PD42086k_hum	175	PBMC - Cytotoxic T cells	PBMC	FS2-3	2	Yes
+PD42086l_hum	21	PBMC - B cells	PBMC	FS2-3	2	Yes
+PD42086m_hum	123	PBMC - Plasmablasts	PBMC	FS2-3	2	Yes
+PD42086n_hum	102	PMBC - monocyte	biopsy	FS2-3	2	Yes
+PD42086o_hum	175	PMBC - NK cell	biopsy	FS2-3	2	Yes
+PD42087a_hum	130	Helper T cells	biopsy	FS4-5	4	Yes
+PD42087d_hum	47	B Cells	biopsy	FS4-5	4	Yes
+PD42087g_hum	21	CD19-CD38- cells	biopsy	FS4-5	4	Yes
+PD42087h_hum	34	Fibroblasts	biopsy	FS4-5	4	Yes
+PD42088c_hum	19	Cytotoxic T Cells	biopsy	FS2-3	3	Yes
+PD42088e_hum	45	Plasmablasts	biopsy	FS2-3	3	Yes
+PD42088g_hum	39	CD19-CD38- cells	biopsy	FS2-3	3	Yes
+PD42088i_hum	66	Stroma	biopsy	FS2-3	3	Yes
+PD42088j_hum	185	PBMC - Helper T cells	PBMC	FS2-3	3	Yes
+PD42088k_hum	197	PBMC - Cytotoxic T cells	PBMC	FS2-3	3	Yes
+PD42088l_hum	100	PBMC - B cells	PBMC	FS2-3	3	Yes
+PD42088m_hum	109	PBMC - Plasmablasts	PBMC	FS2-3	3	Yes
+PD42088n_hum	178	PMBC - monocyte	biopsy	FS2-3	3	Yes
+PD42088o_hum	40	PMBC - NK cell	biopsy	FS2-3	3	Yes
+PD42089a_hum	19	Helper T cells	biopsy	FS4-5	4	Yes
+PD42089c_hum	62	Cytotoxic T Cells	biopsy	FS4-5	4	Yes
+PD42089d_hum	68	B Cells	biopsy	FS4-5	4	Yes
+PD42089f_hum	56	Plasma Cells	biopsy	FS4-5	4	Yes
+PD42089g_hum	214	CD19-CD38- cells	biopsy	FS4-5	4	Yes
+PD42089h_hum	26	Fibroblasts	biopsy	FS4-5	4	Yes
+PD42089j_hum	77	PBMC - Helper T cells	PBMC	FS4-5	4	Yes
+PD42089k_hum	142	PBMC - Cytotoxic T cells	PBMC	FS4-5	4	Yes
+PD42089l_hum	155	PBMC - B cells	PBMC	FS4-5	4	Yes
+PD42089n_hum	79	PMBC - monocyte	biopsy	FS4-5	4	Yes
+PD42090a_hum	30	Helper T cells	biopsy	FS2-3	2	Yes
+PD42090c_hum	144	Cytotoxic T Cells	biopsy	FS2-3	2	Yes
+PD42090d_hum	163	B Cells	biopsy	FS2-3	2	Yes
+PD42090f_hum	16	Plasma Cells	biopsy	FS2-3	2	Yes
+PD42090g_hum	141	CD19-CD38- cells	biopsy	FS2-3	2	Yes
+PD42090h_hum	31	Fibroblasts	biopsy	FS2-3	2	Yes
+PD42090i_hum	49	Stroma	biopsy	FS2-3	2	Yes

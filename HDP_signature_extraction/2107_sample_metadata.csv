@@ -1,0 +1,457 @@
+﻿Patient,LCM cut name,Sample_ID,Depth,Project,Tissue,Cell_type,Diagnosis,Age,Sex
+PD42759,PD42759a_duct5,PD42759a_duct5,12.1,2107,Epithelium,Duct,Normal,65,Female
+PD42759,PD42759a_duct7,PD42759a_lo0001,19,2107,Epithelium,Duct,Normal,65,Female
+PD42759,PD42759a_duct8,PD42759a_lo0002,13.8,2107,Epithelium,Duct,Normal,65,Female
+PD42759,PD42759a_duct9,PD42759a_lo0003,10.8,2107,Epithelium,Duct,Normal,65,Female
+PD42759,PD42759a_gland17,PD42759a_lo0004,10.7,2107,Epithelium,Acinus,Normal,65,Female
+PD42759,PD42759a_gland20,PD42759a_lo0006,10.8,2107,Epithelium,Acinus,Normal,65,Female
+PD42759,PD42759a_gland26,PD42759a_lo0012,11.4,2107,Epithelium,Acinus,Normal,65,Female
+PD42759,PD42759a_gland27,PD42759a_lo0013,10.7,2107,Epithelium,Acinus,Normal,65,Female
+PD42759,PD42759a_gland28,PD42759a_lo0014,9.5,2107,Epithelium,Acinus,Normal,65,Female
+PD42759,PD42759a_duct10,PD42759a_lo0019,19.6,2107,Epithelium,Duct,Normal,65,Female
+PD42759,PD42759a_duct12,PD42759a_lo0021,21.8,2107,Epithelium,Duct,Normal,65,Female
+PD42759,PD42759a_duct13,PD42759a_lo0022,15.8,2107,Epithelium,Duct,Normal,65,Female
+PD42759,PD42759a_duct14,PD42759a_lo0023,17.5,2107,Epithelium,Duct,Normal,65,Female
+PD42759,PD42759a_gland34,PD42759a_lo0025,14.9,2107,Epithelium,Acinus,Normal,65,Female
+PD42759,PD42759a_gland36,PD42759a_lo0027,10.2,2107,Epithelium,Acinus,Normal,65,Female
+PD42759,PD42759a_gland37,PD42759a_lo0028,12.6,2107,Epithelium,Acinus,Normal,65,Female
+PD42759,PD42759a_gland38,PD42759a_lo0029,18.1,2107,Epithelium,Acinus,Normal,65,Female
+PD42759,PD42759a_duct15,PD42759a_lo0030,16.6,2704,Epithelium,Duct,Normal,65,Female
+PD42760,PD42760a_duct10,PD42760a_duct10,10.6,2107,Epithelium,Duct,Normal,51,Female
+PD42760,PD42760a_duct11,PD42760a_duct11,17.5,2107,Epithelium,Duct,Normal,51,Female
+PD42760,PD42760a_duct12,PD42760a_duct12,36.9,2107,Epithelium,Duct,Normal,51,Female
+PD42760,PD42760a_duct13,PD42760a_duct13,19.9,2107,Epithelium,Duct,Normal,51,Female
+PD42760,PD42760a_duct14,PD42760a_duct14,25.2,2107,Epithelium,Duct,Normal,51,Female
+PD42760,PD42760a_duct15,PD42760a_duct15,12.9,2107,Epithelium,Duct,Normal,51,Female
+PD42760,PD42760a_duct9,PD42760a_duct9,15.6,2107,Epithelium,Duct,Normal,51,Female
+PD42760,PD42760a_gland18,PD42760a_gland18,13.1,2107,Epithelium,Acinus,Normal,51,Female
+PD42760,PD42760a_gland20,PD42760a_gland20,17.8,2107,Epithelium,Acinus,Normal,51,Female
+PD42760,PD42760a_duct1,PD42760a_lo0001,34.3,2107,Epithelium,Acinus,Normal,51,Female
+PD42760,PD42760a_duct2,PD42760a_lo0005,26.4,2107,Epithelium,Acinus,Normal,51,Female
+PD42760,PD42760a_gland6,PD42760a_lo0008,13.6,2107,Epithelium,Acinus,Normal,51,Female
+PD42760,PD42760a_duct4,PD42760a_lo0012,15.1,2107,Epithelium,Acinus,Normal,51,Female
+PD42760,PD42760a_gland15,PD42760a_lo0022,11,2107,Epithelium,Acinus,Normal,51,Female
+PD42760,PD42760a_duct8,PD42760a_lo0023,30.1,2107,Epithelium,Acinus,Normal,51,Female
+PD42761,PD42761a_CD38_CD20,PD42761a_CD38_CD20,19.1,2107,Lymphocyte,B cells,Normal,67,Male
+PD42761,PD42761a_CD4-2,PD42761a_CD4-2,14.5,2107,Lymphocyte,T cells,Normal,67,Male
+PD42761,PD42761a_CD4-4,PD42761a_CD4-4,29.5,2107,Lymphocyte,T cells,Normal,67,Male
+PD42761,PD42761a_duct2,PD42761a_duct2,14.6,2107,Epithelium,Duct,Normal,67,Male
+PD42761,PD42761a_duct3,PD42761a_duct3,14.8,2107,Epithelium,Duct,Normal,67,Male
+PD42761,PD42761a_duct4,PD42761a_duct4,24.6,2107,Epithelium,Duct,Normal,67,Male
+PD42761,PD42761a_duct5,PD42761a_duct5,29.2,2107,Epithelium,Duct,Normal,67,Male
+PD42761,PD42761a_gland1,PD42761a_gland1,29.6,2107,Epithelium,Acinus,Normal,67,Male
+PD42761,PD42761a_gland2,PD42761a_gland2,18.2,2107,Epithelium,Acinus,Normal,67,Male
+PD42761,PD42761a_gland5,PD42761a_gland5,15.3,2107,Epithelium,Acinus,Normal,67,Male
+PD42761,PD42761a_gland6,PD42761a_gland6,15.1,2107,Epithelium,Acinus,Normal,67,Male
+PD42761,PD42761a_duct8,PD42761a_lo0001,16.8,2704,Epithelium,Duct,Normal,67,Male
+PD42761,PD42761a_duct10,PD42761a_lo0003,21.7,2704,Epithelium,Duct,Normal,67,Male
+PD42761,PD42761a_duct11,PD42761a_lo0004,14.8,2704,Epithelium,Duct,Normal,67,Male
+PD42761,PD42761a_gland10,PD42761a_lo0008,16,2704,Epithelium,Acinus,Normal,67,Male
+PD42761,PD42761a_duct13,PD42761a_lo0009,20.1,2704,Epithelium,Duct,Normal,67,Male
+PD42761,PD42761a_duct14,PD42761a_lo0010,20.1,2704,Epithelium,Duct,Normal,67,Male
+PD42761,PD42761a_duct15,PD42761a_lo0014,17.3,2704,Epithelium,Duct,Normal,67,Male
+PD42761,PD42761a_duct16,PD42761a_lo0015,22.9,2704,Epithelium,Duct,Normal,67,Male
+PD42761,PD42761a_gland19,PD42761a_lo0021,13.7,2704,Epithelium,Acinus,Normal,67,Male
+PD42763,PD42763a_gland12,PD42763a_lo0019,20,2107,Epithelium,Acinus,Normal,59,Female
+PD42763,PD42763a_gland13,PD42763a_lo0021,10.1,2107,Epithelium,Acinus,Normal,59,Female
+PD42763,PD42763a_gland21,PD42763a_lo0035,14.3,2107,Epithelium,Acinus,Normal,59,Female
+PD42763,PD42763a_gland22,PD42763a_lo0036,10.1,2107,Epithelium,Acinus,Normal,59,Female
+PD42763,PD42763a_gland23,PD42763a_lo0038,16.6,2704,Epithelium,Acinus,Normal,59,Female
+PD42763,PD42763a_gland24,PD42763a_lo0039,13.6,2704,Epithelium,Acinus,Normal,59,Female
+PD42763,PD42763a_gland25,PD42763a_lo0040,21.7,2704,Epithelium,Acinus,Normal,59,Female
+PD42763,PD42763a_gland26,PD42763a_lo0041,22,2704,Epithelium,Acinus,Normal,59,Female
+PD42763,PD42763a_gland28,PD42763a_lo0043,13.1,2704,Epithelium,Acinus,Normal,59,Female
+PD42763,PD42763a_duct15,PD42763a_lo0046,22.8,2704,Epithelium,Duct,Normal,59,Female
+PD42763,PD42763a_duct16,PD42763a_lo0047,17.6,2704,Epithelium,Duct,Normal,59,Female
+PD42763,PD42763a_gland32,PD42763a_lo0049,15.5,2704,Epithelium,Acinus,Normal,59,Female
+PD42763,PD42763a_duct17,PD42763a_lo0050,34.9,2704,Epithelium,Duct,Normal,59,Female
+PD42763,PD42763a_duct18,PD42763a_lo0051,18,2704,Epithelium,Duct,Normal,59,Female
+PD42763,PD42763a_duct19,PD42763a_lo0052,20.4,2704,Epithelium,Duct,Normal,59,Female
+PD42763,PD42763a_duct20,PD42763a_lo0053,31.1,2704,Epithelium,Duct,Normal,59,Female
+PD42763,PD42763a_gland34,PD42763a_lo0055,14.3,2704,Epithelium,Acinus,Normal,59,Female
+PD42763,PD42763a_gland35,PD42763a_lo0056,22.6,2704,Epithelium,Acinus,Normal,59,Female
+PD42763,PD42763a_duct21,PD42763a_lo0059,21.2,2704,Epithelium,Duct,Normal,59,Female
+PD42763,PD42763a_duct23,PD42763a_lo0061,19.9,2704,Epithelium,Duct,Normal,59,Female
+PD42764,PD42764a_duct12,PD42764a_duct12,18.2,2704,Epithelium,Duct,Normal,57,Male
+PD42764,PD42764a_duct14,PD42764a_duct14,16.1,2704,Epithelium,Duct,Normal,57,Male
+PD42764,PD42764a_duct15,PD42764a_lo0001,24.5,2704,Epithelium,Duct,Normal,57,Male
+PD42764,PD42764a_duct16,PD42764a_lo0002,18,2704,Epithelium,Duct,Normal,57,Male
+PD42764,PD42764a_duct17,PD42764a_lo0003,14.5,2704,Epithelium,Duct,Normal,57,Male
+PD42764,PD42764a_duct19,PD42764a_lo0009,19,2704,Epithelium,Duct,Normal,57,Male
+PD42765,PD42765a_gland2,PD42765a_lo0002,22.5,2107,Epithelium,Acinus,Normal,59,Female
+PD42765,PD42765a_gland4,PD42765a_lo0007,19.9,2107,Epithelium,Acinus,Normal,59,Female
+PD42765,PD42765a_gland5,PD42765a_lo0008,10.8,2107,Epithelium,Acinus,Normal,59,Female
+PD42765,PD42765a_duct4,PD42765a_lo0015,12.2,2107,Epithelium,Duct,Normal,59,Female
+PD42765,PD42765a_duct5,PD42765a_lo0016,32.7,2107,Epithelium,Duct,Normal,59,Female
+PD42765,PD42765a_duct6,PD42765a_lo0017,21.7,2107,Epithelium,Duct,Normal,59,Female
+PD42765,PD42765a_gland14,PD42765a_lo0020,9.9,2107,Epithelium,Acinus,Normal,59,Female
+PD42765,PD42765a_duct1A,PD42765a_lo0021,43.8,2704,Epithelium,Duct,Normal,59,Female
+PD42765,PD42765a_duct7,PD42765a_lo0022,38,2704,Epithelium,Duct,Normal,59,Female
+PD42765,PD42765a_duct8,PD42765a_lo0023,22,2704,Epithelium,Duct,Normal,59,Female
+PD42765,PD42765a_gland15,PD42765a_lo0024,14.1,2704,Epithelium,Acinus,Normal,59,Female
+PD42765,PD42765a_duct10,PD42765a_lo0038,10.8,2704,Epithelium,Duct,Normal,59,Female
+PD42765,PD42765a_duct11,PD42765a_lo0039,21.1,2704,Epithelium,Duct,Normal,59,Female
+PD42765,PD42765a_duct13,PD42765a_lo0054,14.5,2704,Epithelium,Duct,Normal,59,Female
+PD42765,PD42765a_duct19,PD42765a_lo0064,16.3,2704,Epithelium,Duct,Normal,59,Female
+PD42766,PD42766a_gland6,PD42766a_lo0001,18.6,2107,Epithelium,Acinus,Normal,57,Male
+PD42766,PD42766a_duct6,PD42766a_lo0002,21.1,2107,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_duct7,PD42766a_lo0003,11.6,2107,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_duct8,PD42766a_lo0004,24.7,2107,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_duct9,PD42766a_lo0005,27.3,2107,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_gland7,PD42766a_lo0006,23.4,2107,Epithelium,Acinus,Normal,57,Male
+PD42766,PD42766a_gland8,PD42766a_lo0007,15.1,2107,Epithelium,Acinus,Normal,57,Male
+PD42766,PD42766a_gland9,PD42766a_lo0008,17.3,2107,Epithelium,Acinus,Normal,57,Male
+PD42766,PD42766a_gland10,PD42766a_lo0009,19.3,2107,Epithelium,Acinus,Normal,57,Male
+PD42766,PD42766a_duct10,PD42766a_lo0011,26.3,2107,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_duct11,PD42766a_lo0012,31,2107,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_gland12,PD42766a_lo0013,14,2107,Epithelium,Acinus,Normal,57,Male
+PD42766,PD42766a_duct13,PD42766a_lo0017,17.7,2704,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_duct14,PD42766a_lo0021,23,2704,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_duct16,PD42766a_lo0026,16.1,2704,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_duct18,PD42766a_lo0028,19,2704,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_duct19,PD42766a_lo0032,18.7,2704,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_duct21,PD42766a_lo0035,15.9,2704,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_duct22,PD42766a_lo0039,20.9,2704,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_duct23,PD42766a_lo0048,14.9,2704,Epithelium,Duct,Normal,57,Male
+PD42766,PD42766a_duct24,PD42766a_lo0049,11.8,2704,Epithelium,Duct,Normal,57,Male
+PD42767,PD42767a_CD20_1a,PD42767a_CD20_1a,39.9,2107,Lymphocyte,B cells,Sjogrens,22,Female
+PD42767,PD42767a_CD20_1b,PD42767a_CD20_1b,51.2,2107,Lymphocyte,B cells,Sjogrens,22,Female
+PD42767,PD42767a_CD20_3,PD42767a_CD20_3,30.3,2107,Lymphocyte,B cells,Sjogrens,22,Female
+PD42767,PD42767a_CD20_4,PD42767a_CD20_4,44.5,2107,Lymphocyte,B cells,Sjogrens,22,Female
+PD42767,PD42767a_CD20_5,PD42767a_CD20_5,41.4,2107,Lymphocyte,B cells,Sjogrens,22,Female
+PD42767,PD42767a_CD20_6,PD42767a_CD20_6,49.8,2107,Lymphocyte,B cells,Sjogrens,22,Female
+PD42767,PD42767a_CD38_1,PD42767a_CD38_1,47.6,2107,Lymphocyte,B cells,Sjogrens,22,Female
+PD42767,PD42767a_gland17,PD42767a_lo0004,15.3,2704,Epithelium,Acinus,Sjogrens,22,Female
+PD42767,PD42767a_gland19,PD42767a_lo0006,11.9,2704,Epithelium,Acinus,Sjogrens,22,Female
+PD42767,PD42767a_duct11,PD42767a_lo0009,29.4,2704,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_duct12,PD42767a_lo0010,23.5,2704,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_duct13,PD42767a_lo0011,22.2,2704,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_duct16,PD42767a_lo0014,29.3,2704,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_glands22,PD42767a_lo0015,14.3,2704,Epithelium,Acinus,Sjogrens,22,Female
+PD42767,PD42767a_duct1,PD42767a_duct1,9,2107,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_duct1a,PD42767a_duct1a,43.6,2107,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_duct3a,PD42767a_duct3a,39.8,2107,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_duct5,PD42767a_duct5,15.1,2107,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_duct5a,PD42767a_duct5a,12,2107,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_duct6a,PD42767a_duct6a,17.9,2107,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_duct7,PD42767a_duct7,14,2107,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_duct7a,PD42767a_duct7a,26.5,2107,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_duct8a,PD42767a_duct8a,23.4,2107,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_duct9,PD42767a_duct9,15.2,2107,Epithelium,Duct,Sjogrens,22,Female
+PD42767,PD42767a_gland9,PD42767a_gland9,9.7,2107,Epithelium,Acinus,Sjogrens,22,Female
+PD42767,PD42767a_glands1,PD42767a_glands1,25.4,2107,Epithelium,Acinus,Sjogrens,22,Female
+PD42768,PD42768a_CD20_1,PD42768a_CD20_1,32.7,2107,Lymphocyte,B cells,Sjogrens,31,Female
+PD42768,PD42768a_CD20_3,PD42768a_CD20_3,22,2107,Lymphocyte,B cells,Sjogrens,31,Female
+PD42768,PD42768a_CD20_4,PD42768a_CD20_4,29.5,2107,Lymphocyte,B cells,Sjogrens,31,Female
+PD42768,PD42768a_CD20_5,PD42768a_CD20_5,21.3,2107,Lymphocyte,B cells,Sjogrens,31,Female
+PD42768,PD42768a_CD20_6,PD42768a_CD20_6,22.8,2107,Lymphocyte,B cells,Sjogrens,31,Female
+PD42768,PD42768a_CD20_8,PD42768a_CD20_8,43.9,2107,Lymphocyte,B cells,Sjogrens,31,Female
+PD42768,PD42768a_duct1,PD42768a_duct1,29.9,2107,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct3,PD42768a_duct3,41.9,2107,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct4,PD42768a_duct4,14.2,2107,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_gland1,PD42768a_lo0001,15,2107,Epithelium,Acinus,Sjogrens,31,Female
+PD42768,PD42768a_duct2,PD42768a_lo0012,41.9,2107,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_gland5,PD42768a_lo0013,14.3,2107,Epithelium,Acinus,Sjogrens,31,Female
+PD42768,PD42768a_duct3,PD42768a_lo0014,54.9,2107,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_gland8,PD42768a_lo0019,13.3,2107,Epithelium,Acinus,Sjogrens,31,Female
+PD42768,PD42768a_gland9,PD42768a_lo0021,11.6,2107,Epithelium,Acinus,Sjogrens,31,Female
+PD42768,PD42768a_duct7,PD42768a_lo0024,18.1,2107,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct10,PD42768a_lo0044,16.8,2107,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct16,PD42768a_lo0051,38.5,2107,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct17,PD42768a_lo0053,14.9,2107,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct27,PD42768a_lo0069,33.3,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct28,PD42768a_lo0070,21.7,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct29,PD42768a_lo0071,18.8,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct30,PD42768a_lo0072,11.6,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct31,PD42768a_lo0073,27,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct32,PD42768a_lo0077,18.3,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct34,PD42768a_lo0079,18.1,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct35,PD42768a_lo0080,28,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct36,PD42768a_lo0081,19.2,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct37,PD42768a_lo0082,16.5,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct26,PD42768a_lo0083,36,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct18,PD42768a_lo0084,24.8,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct19,PD42768a_lo0090,18,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct20,PD42768a_lo0091,17.1,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct21,PD42768a_lo0092,25.4,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_duct24,PD42768a_lo0095,29.3,2704,Epithelium,Duct,Sjogrens,31,Female
+PD42768,PD42768a_CD20-2b,PD42768a_lo0066,39.5,2704,Lymphocyte,B cells,Sjogrens,31,Female
+PD42768,PD42768a_CD20-8b,PD42768a_lo0067,32.7,2704,Lymphocyte,B cells,Sjogrens,31,Female
+PD42768,PD42768a_CD20-7b,PD42768a_lo0068,40.9,2704,Lymphocyte,B cells,Sjogrens,31,Female
+PD42769,PD42769a_CD20_1,PD42769a_CD20_1,13.2,2107,Lymphocyte,B cells,Sjogrens,42,Female
+PD42769,PD42769a_CD20_2,PD42769a_CD20_2,29.9,2107,Lymphocyte,B cells,Sjogrens,42,Female
+PD42769,PD42769a_CD20_3,PD42769a_CD20_3,17.2,2107,Lymphocyte,B cells,Sjogrens,42,Female
+PD42769,PD42769a_CD20_8,PD42769a_CD20_8,23.1,2107,Lymphocyte,B cells,Sjogrens,42,Female
+PD42769,PD42769a_gland9,PD42769a_lo0049,19.5,2107,Epithelium,Acinus,Sjogrens,42,Female
+PD42769,PD42769a_duct14,PD42769a_lo0051,28.8,2107,Epithelium,Duct,Sjogrens,42,Female
+PD42769,PD42769a_duct15,PD42769a_lo0052,18.1,2107,Epithelium,Duct,Sjogrens,42,Female
+PD42769,PD42769a_glands14,PD42769a_lo0056,9.7,2107,Epithelium,Acinus,Sjogrens,42,Female
+PD42769,PD42769a_duct16,PD42769a_lo0057,20.1,2107,Epithelium,Duct,Sjogrens,42,Female
+PD42769,PD42769a_gland15,PD42769a_lo0058,17.6,2107,Epithelium,Acinus,Sjogrens,42,Female
+PD42769,PD42769a_gland18,PD42769a_lo0061,9.7,2107,Epithelium,Acinus,Sjogrens,42,Female
+PD42769,PD42769a_glands19,PD42769a_lo0062,25.4,2107,Epithelium,Acinus,Sjogrens,42,Female
+PD42769,PD42769a_glands20,PD42769a_lo0063,18.3,2107,Epithelium,Acinus,Sjogrens,42,Female
+PD42769,PD42769a_duct17,PD42769a_lo0073,18.8,2704,Epithelium,Duct,Sjogrens,42,Female
+PD42769,PD42769a_duct18,PD42769a_lo0074,14.1,2704,Epithelium,Duct,Sjogrens,42,Female
+PD42770,PD42770a_CD20-2,PD42770a_CD20-2,26.4,2107,Lymphocyte,B cells,Sjogrens,72,Male
+PD42770,PD42770a_duct1,PD42770a_duct1,43,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct2,PD42770a_duct2,15.6,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct3,PD42770a_duct3,34.3,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct4,PD42770a_duct4,13.9,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct5,PD42770a_duct5,17.7,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct6,PD42770a_duct6,31.8,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_gland2,PD42770a_gland2,23.8,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD42770,PD42770a_gland3,PD42770a_gland3,13.4,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD42770,PD42770a_gland4,PD42770a_gland4,11.6,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD42770,PD42770a_gland5,PD42770a_gland5,33.9,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD42770,PD42770a_gland7,PD42770a_lo0002,15.6,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD42770,PD42770a_gland10,PD42770a_lo0005,15,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD42770,PD42770a_duct7,PD42770a_lo0006,12.5,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_gland18,PD42770a_lo0014,9.9,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD42770,PD42770a_duct8,PD42770a_lo0015,25.1,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct9,PD42770a_lo0016,18,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_gland19,PD42770a_lo0017,17.3,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD42770,PD42770a_gland20,PD42770a_lo0018,8.1,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD42770,PD42770a_duct10,PD42770a_lo0020,25.5,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct12,PD42770a_lo0021,13.8,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct14,PD42770a_lo0023,22,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_gland22,PD42770a_lo0024,12.3,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD42770,PD42770a_gland23,PD42770a_lo0025,12.9,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD42770,PD42770a_gland24,PD42770a_lo0026,11.4,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD42770,PD42770a_duct15,PD42770a_lo0027,22.3,2107,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct16,PD42770a_lo0030,50,2704,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct17,PD42770a_lo0031,25.2,2704,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct18,PD42770a_lo0032,16.8,2704,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct19,PD42770a_lo0041,22.2,2704,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_duct20,PD42770a_lo0042,12.7,2704,Epithelium,Duct,Sjogrens,72,Male
+PD42770,PD42770a_gland36,PD42770a_lo0044,19.2,2704,Epithelium,Acinus,Sjogrens,72,Male
+PD42771,PD42771a_CD20-2a,PD42771a_CD20-2a,15.6,2107,Lymphocyte,B cells,Sjogrens,61,Female
+PD42771,PD42771a_CD20-5a,PD42771a_CD20-5a,16.6,2107,Lymphocyte,B cells,Sjogrens,61,Female
+PD42771,PD42771a_CD8-3,PD42771a_CD8-3,13.3,2107,Lymphocyte,T cells,Sjogrens,61,Female
+PD42771,PD42771a_duct12a,PD42771a_duct12a,16.9,2107,Epithelium,Duct,Sjogrens,61,Female
+PD42771,PD42771a_duct12b,PD42771a_duct12b,11.4,2107,Epithelium,Duct,Sjogrens,61,Female
+PD42771,PD42771a_gland1,PD42771a_gland1,10.4,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD42771,PD42771a_CD20-5D,PD42771a_lo0001,10.1,2107,Lymphocyte,B cells,Sjogrens,61,Female
+PD42771,PD42771a_duct16,PD42771a_lo0002,34.8,2107,Epithelium,Duct,Sjogrens,61,Female
+PD42771,PD42771a_duct17,PD42771a_lo0003,23.2,2107,Epithelium,Duct,Sjogrens,61,Female
+PD42771,PD42771a_gland31,PD42771a_lo0004,12.6,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD42771,PD42771a_duct18,PD42771a_lo0006,29.3,2107,Epithelium,Duct,Sjogrens,61,Female
+PD42771,PD42771a_duct19,PD42771a_lo0007,25.6,2107,Epithelium,Duct,Sjogrens,61,Female
+PD42771,PD42771a_duct20,PD42771a_lo0008,20.7,2107,Epithelium,Duct,Sjogrens,61,Female
+PD42771,PD42771a_duct21,PD42771a_lo0009,22.8,2107,Epithelium,Duct,Sjogrens,61,Female
+PD42771,PD42771a_duct22,PD42771a_lo0010,20.6,2107,Epithelium,Duct,Sjogrens,61,Female
+PD42771,PD42771a_gland33,PD42771a_lo0011,13,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD42771,PD42771a_gland34,PD42771a_lo0012,13.9,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD42771,PD42771a_gland36,PD42771a_lo0014,18.3,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD42771,PD42771a_gland37,PD42771a_lo0015,11.3,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD42771,PD42771a_gland39,PD42771a_lo0017,9.1,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD42771,PD42771a_duct23,PD42771a_lo0018,13.4,2107,Epithelium,Duct,Sjogrens,61,Female
+PD42771,PD42771a_duct24,PD42771a_lo0019,24.7,2107,Epithelium,Duct,Sjogrens,61,Female
+PD42771,PD42771a_duct26,PD42771a_lo0021,9.7,2107,Epithelium,Duct,Sjogrens,61,Female
+PD42772,PD42772a_CD20_1,PD42772a_CD20_1,29.1,2107,Lymphocyte,B cells,Sjogrens,63,Female
+PD42772,PD42772a_CD20_2,PD42772a_CD20_2,44.8,2107,Lymphocyte,B cells,Sjogrens,63,Female
+PD42772,PD42772a_CD20_3,PD42772a_CD20_3,39.6,2107,Lymphocyte,B cells,Sjogrens,63,Female
+PD42772,PD42772a_gland34,PD42772a_lo0089,13.1,2107,Epithelium,Acinus,Sjogrens,63,Female
+PD42772,PD42772a_duct5b,PD42772a_lo0097,21.1,2107,Epithelium,Duct,Sjogrens,63,Female
+PD42772,PD42772a_duct8c,PD42772a_lo0108,14.6,2107,Epithelium,Duct,Sjogrens,63,Female
+PD42772,PD42772a_duct9,PD42772a_lo0109,16.1,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42772,PD42772a_duct11,PD42772a_lo0111,17,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42772,PD42772a_duct13,PD42772a_lo0113,21.3,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42772,PD42772a_duct15,PD42772a_lo0115,11.9,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42772,PD42772a_duct16,PD42772a_lo0116,14.8,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42772,PD42772a_duct17,PD42772a_lo0117,17.7,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42772,PD42772a_duct18,PD42772a_lo0118,13.2,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42772,PD42772a_duct23,PD42772a_lo0123,38.5,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42772,PD42772a_gland50,PD42772a_lo0126,16.8,2704,Epithelium,Acinus,Sjogrens,63,Female
+PD42773,PD42773a_CD20_4,PD42773a_CD20_4,29.2,2107,Lymphocyte,B cells,Sjogrens,71,Male
+PD42773,PD42773a_CD20-10,PD42773a_CD20-10,12.7,2107,Lymphocyte,B cells,Sjogrens,71,Male
+PD42773,PD42773a_CD20-3,PD42773a_CD20-3,16.9,2107,Lymphocyte,B cells,Sjogrens,71,Male
+PD42773,PD42773a_CD20-9,PD42773a_CD20-9,15.3,2107,Lymphocyte,B cells,Sjogrens,71,Male
+PD42773,PD42773a_CD38-6,PD42773a_CD38-6,15.3,2107,Lymphocyte,B cells,Sjogrens,71,Male
+PD42773,PD42773a_glands11,PD42773a_lo0036,9.8,2704,Epithelium,Acinus,Sjogrens,71,Male
+PD42773,PD42773a_glands14,PD42773a_lo0039,12.2,2704,Epithelium,Acinus,Sjogrens,71,Male
+PD42773,PD42773a_duct7,PD42773a_lo0045,18.6,2704,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773a_duct9,PD42773a_lo0049,16.7,2704,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773a_duct11,PD42773a_lo0052,11.9,2704,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773a_glands25,PD42773a_lo0055,12.8,2704,Epithelium,Acinus,Sjogrens,71,Male
+PD42773,PD42773a_duct13,PD42773a_lo0057,16.7,2704,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773a_duct14,PD42773a_lo0058,16.4,2704,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773a_duct15,PD42773a_lo0060,15.5,2704,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773a_duct16,PD42773a_lo0061,13.9,2704,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773a_duct18,PD42773a_lo0063,19.6,2704,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773a_duct36,PD42773a_lo0100,16.1,2704,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773a_duct40,PD42773a_lo0104,13.1,2704,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773a_duct43,PD42773a_lo0107,27.7,2704,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773_gland1,PD42773a_lo0001,13.5,2107,Epithelium,Acinus,Sjogrens,71,Male
+PD42773,PD42773_gland3,PD42773a_lo0003,14.7,2107,Epithelium,Acinus,Sjogrens,71,Male
+PD42773,PD42773_duct1,PD42773a_lo0010,29.8,2107,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773_duct2,PD42773a_lo0016,27.2,2107,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773_duct3,PD42773a_lo0025,22.2,2107,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773_duct6,PD42773a_lo0034,45.7,2107,Epithelium,Duct,Sjogrens,71,Male
+PD42773,PD42773a_CD20-8B,PD42773a_lo0065,11.7,2107,Lymphocyte,B cells,Sjogrens,71,Male
+PD42773,PD42773a_CD20-4/5,PD42773a_lo0067,18.3,2107,Lymphocyte,B cells,Sjogrens,71,Male
+PD42773,PD42773a_duct25,PD42773a_lo0076,23.2,2107,Epithelium,Duct,Sjogrens,71,Male
+PD42774,PD42774a_CD20_2,PD42774a_CD20_2,50.4,2107,Lymphocyte,B cells,Sjogrens,63,Female
+PD42774,PD42774a_CD20_3,PD42774a_CD20_3,36.3,2107,Lymphocyte,B cells,Sjogrens,63,Female
+PD42774,PD42774a_CD20_4,PD42774a_CD20_4,29.6,2107,Lymphocyte,B cells,Sjogrens,63,Female
+PD42774,PD42774a_CD20_6,PD42774a_CD20_6,34.5,2107,Lymphocyte,B cells,Sjogrens,63,Female
+PD42774,PD42774a_duct39,PD42774a_duct39,19.4,2107,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct40,PD42774a_duct40,13.3,2107,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct45,PD42774a_duct45,33.9,2107,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct1,PD42774a_lo0002,24.4,2107,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct7,PD42774a_lo0008,10.6,2107,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct11,PD42774a_lo0039,19,2107,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct14,PD42774a_lo0042,11.3,2107,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct25,PD42774a_lo0097,16.9,2107,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct29,PD42774a_lo0101,15,2107,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct34,PD42774a_lo0106,10.6,2107,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct46,PD42774a_lo0122,24.7,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct47,PD42774a_lo0123,24.9,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct48,PD42774a_lo0124,16.7,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct52,PD42774a_lo0126,14.8,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct53,PD42774a_lo0127,15.9,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct56,PD42774a_lo0130,12.6,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct57,PD42774a_lo0131,13.4,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct58,PD42774a_lo0132,22.2,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct59,PD42774a_lo0133,19.3,2704,Epithelium,Duct,Sjogrens,63,Female
+PD42774,PD42774a_duct51A,PD42774a_lo0134,32.7,2704,Epithelium,Duct,Sjogrens,63,Female
+PD45527,PD45527a_CD20-8,PD45527a_CD20-8,29.2,2107,Lymphocyte,B cells,Sjogrens,68,Female
+PD45527,PD45527a_duct17,PD45527a_duct17,19.1,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_duct18,PD45527a_duct18,31.7,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_duct19,PD45527a_duct19,18.3,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_duct20,PD45527a_duct20,16.2,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_duct21,PD45527a_duct21,43.6,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_duct23,PD45527a_duct23,21.4,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_duct24,PD45527a_duct24,20.7,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_gland30,PD45527a_gland30,16.2,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland31,PD45527a_gland31,23.6,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland32,PD45527a_gland32,15.8,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland34,PD45527a_gland34,16.6,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland36,PD45527a_gland36,14.6,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland37,PD45527a_gland37,15,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland39,PD45527a_gland39,16,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland45,PD45527a_lo0007,15.5,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland46,PD45527a_lo0008,16.9,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland48,PD45527a_lo0010,13.9,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland55,PD45527a_lo0017,17.1,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland53,PD45527a_lo0021,12.8,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland54,PD45527a_lo0022,11.8,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_duct25,PD45527a_lo0023,13.6,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_duct26,PD45527a_lo0024,11.2,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_gland56,PD45527a_lo0027,10.6,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland57,PD45527a_lo0028,10,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_duct28,PD45527a_lo0029,13.8,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_duct29,PD45527a_lo0030,17.1,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_duct31,PD45527a_lo0033,10,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_duct32,PD45527a_lo0034,25.2,2107,Epithelium,Duct,Sjogrens,68,Female
+PD45527,PD45527a_gland62,PD45527a_lo0037,17,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45527,PD45527a_gland63,PD45527a_lo0038,13,2107,Epithelium,Acinus,Sjogrens,68,Female
+PD45528,PD45528a_CD20_1,PD45528a_CD20_1,13.6,2107,Lymphocyte,B cells,Sjogrens,58,Female
+PD45528,PD45528a_CD20_4,PD45528a_CD20_4,19.9,2107,Lymphocyte,B cells,Sjogrens,58,Female
+PD45528,PD45528a_CD20_5,PD45528a_CD20_5,18.5,2107,Lymphocyte,B cells,Sjogrens,58,Female
+PD45528,PD45528a_CD20_6,PD45528a_CD20_6,21.1,2107,Lymphocyte,B cells,Sjogrens,58,Female
+PD45528,PD45528a_CD20_7,PD45528a_CD20_7,17.1,2107,Lymphocyte,B cells,Sjogrens,58,Female
+PD45528,PD45528a_CD20_8,PD45528a_CD20_8,16.7,2107,Lymphocyte,B cells,Sjogrens,58,Female
+PD45528,PD45528a_CD20_9,PD45528a_CD20_9,19.9,2107,Lymphocyte,B cells,Sjogrens,58,Female
+PD45528,PD45528a_gland1,PD45528a_lo0001,10.5,2107,Epithelium,Acinus,Sjogrens,58,Female
+PD45528,PD45528a_duct1,PD45528a_lo0004,14.2,2107,Epithelium,Duct,Sjogrens,58,Female
+PD45528,PD45528a_duct2,PD45528a_lo0005,17.1,2107,Epithelium,Duct,Sjogrens,58,Female
+PD45528,PD45528a_gland8,PD45528a_lo0010,19.5,2107,Epithelium,Acinus,Sjogrens,58,Female
+PD45528,PD45528a_gland9,PD45528a_lo0011,12.9,2107,Epithelium,Acinus,Sjogrens,58,Female
+PD45528,PD45528a_gland10,PD45528a_lo0012,13.1,2107,Epithelium,Acinus,Sjogrens,58,Female
+PD45528,PD45528a_duct4,PD45528a_lo0014,17.8,2107,Epithelium,Duct,Sjogrens,58,Female
+PD45528,PD45528a_duct5,PD45528a_lo0015,20.6,2107,Epithelium,Duct,Sjogrens,58,Female
+PD45528,PD45528a_duct6,PD45528a_lo0016,10.8,2107,Epithelium,Duct,Sjogrens,58,Female
+PD45528,PD45528a_duct7,PD45528a_lo0019,13.6,2704,Epithelium,Duct,Sjogrens,58,Female
+PD45528,PD45528a_duct8,PD45528a_lo0020,20.5,2704,Epithelium,Duct,Sjogrens,58,Female
+PD45528,PD45528a_duct9,PD45528a_lo0021,19.5,2704,Epithelium,Duct,Sjogrens,58,Female
+PD45528,PD45528a_duct10,PD45528a_lo0022,16.9,2704,Epithelium,Duct,Sjogrens,58,Female
+PD45528,PD45528a_duct11,PD45528a_lo0028,17.5,2704,Epithelium,Duct,Sjogrens,58,Female
+PD45529,PD45529a_gland1,PD45529a_lo0001,15.9,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD45529,PD45529a_gland2,PD45529a_lo0002,17.8,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD45529,PD45529a_gland3,PD45529a_lo0003,13.1,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD45529,PD45529a_duct4,PD45529a_lo0007,21.9,2107,Epithelium,Duct,Sjogrens,61,Female
+PD45529,PD45529a_gland5,PD45529a_lo0009,19.2,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD45529,PD45529a_gland6,PD45529a_lo0010,11.7,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD45529,PD45529a_duct5,PD45529a_lo0012,24.4,2107,Epithelium,Duct,Sjogrens,61,Female
+PD45529,PD45529a_duct6,PD45529a_lo0013,13.6,2107,Epithelium,Duct,Sjogrens,61,Female
+PD45529,PD45529a_gland13,PD45529a_lo0014,16.9,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD45529,PD45529a_gland14,PD45529a_lo0015,15.1,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD45529,PD45529a_gland15,PD45529a_lo0016,12.8,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD45529,PD45529a_duct7,PD45529a_lo0017,22.3,2107,Epithelium,Duct,Sjogrens,61,Female
+PD45529,PD45529a_gland16,PD45529a_lo0018,12.4,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD45529,PD45529a_gland17,PD45529a_lo0019,16.2,2107,Epithelium,Acinus,Sjogrens,61,Female
+PD45529,PD45529a_gland24,PD45529a_lo0029,11.5,2704,Epithelium,Acinus,Sjogrens,61,Female
+PD45529,PD45529a_duct13,PD45529a_lo0035,13.8,2704,Epithelium,Duct,Sjogrens,61,Female
+PD45529,PD45529a_gland31,PD45529a_lo0040,13,2704,Epithelium,Acinus,Sjogrens,61,Female
+PD45530,PD45530a_duct1,PD45530a_lo0003,16.1,2107,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_gland8,PD45530a_lo0004,18.2,2107,Epithelium,Acinus,Sjogrens,46,Female
+PD45530,PD45530a_gland9,PD45530a_lo0005,13.5,2107,Epithelium,Acinus,Sjogrens,46,Female
+PD45530,PD45530a_gland10,PD45530a_lo0006,9.5,2107,Epithelium,Acinus,Sjogrens,46,Female
+PD45530,PD45530a_gland12,PD45530a_lo0008,18.2,2107,Epithelium,Acinus,Sjogrens,46,Female
+PD45530,PD45530a_gland13,PD45530a_lo0009,17.9,2107,Epithelium,Acinus,Sjogrens,46,Female
+PD45530,PD45530a_duct4,PD45530a_lo0010,23.9,2107,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct5,PD45530a_lo0011,23.7,2107,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct6,PD45530a_lo0012,24.3,2107,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct3,PD45530a_lo0013,12.1,2107,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct2,PD45530a_lo0014,22.4,2107,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_gland15,PD45530a_lo0016,20.9,2107,Epithelium,Acinus,Sjogrens,46,Female
+PD45530,PD45530a_duct7,PD45530a_lo0017,19.1,2704,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct8,PD45530a_lo0018,21.7,2704,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct10,PD45530a_lo0020,19.9,2704,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct11,PD45530a_lo0021,12.2,2704,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct13,PD45530a_lo0023,22.5,2704,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct14,PD45530a_lo0024,22.8,2704,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct15,PD45530a_lo0025,21.1,2704,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct16,PD45530a_lo0026,12.6,2704,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct17,PD45530a_lo0027,12.9,2704,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_duct18,PD45530a_lo0028,14.6,2704,Epithelium,Duct,Sjogrens,46,Female
+PD45530,PD45530a_gland21,PD45530a_lo0035,22.1,2704,Epithelium,Acinus,Sjogrens,46,Female
+PD45530,PD45530a_gland28,PD45530a_lo0043,12.8,2704,Epithelium,Acinus,Sjogrens,46,Female
+PD45531,PD45531a_duct1,PD45531a_lo0001,29.8,2107,Epithelium,Duct,Sjogrens,72,Male
+PD45531,PD45531a_duct2,PD45531a_lo0002,22.7,2107,Epithelium,Duct,Sjogrens,72,Male
+PD45531,PD45531a_duct3,PD45531a_lo0003,27.4,2107,Epithelium,Duct,Sjogrens,72,Male
+PD45531,PD45531a_gland2,PD45531a_lo0005,13.9,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD45531,PD45531a_gland4,PD45531a_lo0007,10.2,2107,Epithelium,Acinus,Sjogrens,72,Male
+PD45532,PD45532a_duct1,PD45532a_lo0001,25.7,2107,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct2,PD45532a_lo0002,23.9,2107,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct3,PD45532a_lo0003,26.9,2107,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct4,PD45532a_lo0004,21.9,2107,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct5,PD45532a_lo0005,18.5,2107,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct6,PD45532a_lo0006,12,2107,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_gland1,PD45532a_lo0007,14.4,2107,Epithelium,Acinus,Sjogrens,60,Female
+PD45532,PD45532a_gland2,PD45532a_lo0008,18.7,2107,Epithelium,Acinus,Sjogrens,60,Female
+PD45532,PD45532a_gland3,PD45532a_lo0009,17.8,2107,Epithelium,Acinus,Sjogrens,60,Female
+PD45532,PD45532a_gland7,PD45532a_lo0013,10.1,2107,Epithelium,Acinus,Sjogrens,60,Female
+PD45532,PD45532a_gland9,PD45532a_lo0015,12,2107,Epithelium,Acinus,Sjogrens,60,Female
+PD45532,PD45532a_duct7,PD45532a_lo0016,25.7,2107,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct8,PD45532a_lo0017,22.4,2107,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct9,PD45532a_lo0018,24,2107,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct10,PD45532a_lo0019,22.6,2107,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_gland10,PD45532a_lo0020,13.5,2107,Epithelium,Acinus,Sjogrens,60,Female
+PD45532,PD45532a_gland13,PD45532a_lo0022,12.4,2107,Epithelium,Acinus,Sjogrens,60,Female
+PD45532,PD45532a_duct11,PD45532a_lo0024,22.6,2107,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct12,PD45532a_lo0025,12.5,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_gland15,PD45532a_lo0026,13.3,2704,Epithelium,Acinus,Sjogrens,60,Female
+PD45532,PD45532a_gland17,PD45532a_lo0028,12.8,2704,Epithelium,Acinus,Sjogrens,60,Female
+PD45532,PD45532a_duct13,PD45532a_lo0029,26.1,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_gland18,PD45532a_lo0030,10.6,2704,Epithelium,Acinus,Sjogrens,60,Female
+PD45532,PD45532a_gland20,PD45532a_lo0032,12.4,2704,Epithelium,Acinus,Sjogrens,60,Female
+PD45532,PD45532a_duct14,PD45532a_lo0033,14.6,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct15,PD45532a_lo0034,21.9,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct16,PD45532a_lo0035,21.2,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct17,PD45532a_lo0036,15.3,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct18,PD45532a_lo0038,14,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct19,PD45532a_lo0039,12.1,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct20,PD45532a_lo0040,19.3,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct21,PD45532a_lo0041,18,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct22,PD45532a_lo0046,14.6,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct23,PD45532a_lo0047,11.6,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct24,PD45532a_lo0048,22.4,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct25,PD45532a_lo0049,18,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct26,PD45532a_lo0050,11.2,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct27,PD45532a_lo0051,16.9,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct29,PD45532a_lo0053,19.8,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct30,PD45532a_lo0054,12.7,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct31,PD45532a_lo0055,12.9,2704,Epithelium,Duct,Sjogrens,60,Female
+PD45532,PD45532a_duct33,PD45532a_lo0057,17,2704,Epithelium,Duct,Sjogrens,60,Female

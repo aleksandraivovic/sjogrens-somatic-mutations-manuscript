@@ -1,0 +1,377 @@
+﻿Disease score,Sex,Tissue,Sanger ID,Cell type,CellType_simple
+PSS FS2-3,F,salivary gland,PD30967b,Plasmablasts,Plasmablasts
+PSS FS2-3,F,salivary gland,PD30967c,Cytotoxic T Cells,Cytotoxic T Cells
+PSS FS2-3,F,salivary gland,PD30967g,DR+ Cells,DR+ Cells
+PSS FS2-3,F,salivary gland,PD30967h,Plasma Cells,Plasma Cells
+PSS FS2-3,F,salivary gland,PD30967i,Stroma,Stroma
+PSS FS2-3,F,salivary gland,PD30967k,B Cells,B Cells
+PSS FS2-3,F,salivary gland,PD30967m,Bulk cells,Bulk cells
+PSS FS2-3,F,salivary gland,PD30968b,Plasma Cells,Plasma Cells
+PSS FS2-3,F,salivary gland,PD30968d,B Cells/Plasmablasts,Plasmablasts
+PSS FS2-3,F,salivary gland,PD30968g,helper T,Helper T cells
+PSS FS2-3,F,salivary gland,PD30968k,Bulk cells,Bulk cells
+N,F,salivary gland,PD30969b,B Cells,B Cells
+N,F,salivary gland,PD30969c,Plasmablasts,Plasmablasts
+N,F,salivary gland,PD30969d,cytotoxic T,Cytotoxic T Cells
+N,F,salivary gland,PD30969f,Plasma Cells,Plasma Cells
+N,F,salivary gland,PD30969l,Fibroblasts,Fibroblasts
+PSS FS2-3,F,salivary gland,PD30970f,DR- Cells,DR- Cells
+PSS FS2-3,F,salivary gland,PD30970k,helper T,Helper T cells
+PSS FS2-3,F,fibroblast,PD30970m,Fibroblasts,Fibroblasts
+PSS FS4-5,F,salivary gland,PD30971b,bulk T cells,Bulk T cells
+PSS FS4-5,F,fibroblast,PD30971i,Fibroblasts,Fibroblasts
+Early/FLS,F,salivary gland,PD30972b,DR+/- Cells,DR+/- Cells
+Early/FLS,F,fibroblast,PD30972h,Fibroblasts,Fibroblasts
+Early/FLS,F,salivary gland,PD30973b,bulk B cells,bulk B cells
+Early/FLS,F,fibroblast,PD30973i,Fibroblasts,Fibroblasts
+N,F,salivary gland,PD30974b,DR- Cells,DR- Cells
+N,F,fibroblast,PD30974n,Fibroblasts,Fibroblasts
+N,M,salivary gland,PD30975b,Plasmablasts/Plasma Cells,Plasmablasts
+N,M,fibroblast,PD30975h,Fibroblasts,Fibroblasts
+PSS FS4-5,F,salivary gland,PD30977b,Plasma Cells,Plasma Cells
+PSS FS4-5,F,fibroblast,PD30977j,Fibroblasts,Fibroblasts
+Early/FLS,M,salivary gland,PD30978e,Bulk Cells,Bulk Cells
+PSS FS2-3,F,salivary gland,PD30979h,Bulk Cells,Bulk Cells
+PSS FS2-3,F,fibroblast,PD30979j,Fibroblasts,Fibroblasts
+PSS FS4-5,F,fibroblast,PD40668a,Fibroblasts,Fibroblasts
+PSS FS4-5,F,salivary gland,PD40668c,Helper T cells,Helper T cells
+PSS FS4-5,F,salivary gland,PD40668d,Cytotoxic T cells,Cytotoxic T cells
+PSS FS4-5,F,salivary gland,PD40668e,B cells,B cells
+PSS FS4-5,F,salivary gland,PD40668f,Plasmablasts,Plasmablasts
+PSS FS4-5,F,salivary gland,PD40668g,plasma cells,Plasma Cells
+PSS FS4-5,F,salivary gland,PD40668h,CD19-CD38- cells,CD19-CD38- cells
+PSS FS4-5,F,pbmc,PD40668i,PBMC - Helper T cells,PBMC - Helper T cells
+PSS FS4-5,F,pbmc,PD40668j,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+PSS FS4-5,F,pbmc,PD40668k,PBMC - B cells,PBMC - B cells
+PSS FS4-5,F,pbmc,PD40668l,PBMC - Plasmablasts,PBMC - Plasmablasts
+PSS FS4-5,F,pbmc,PD40668m,PMBC - monocyte,PMBC - monocyte
+Early/FLS,F,fibroblast,PD40669a,Fibroblasts,Fibroblasts
+Early/FLS,F,salivary gland,PD40669c,Helper T cells,Helper T cells
+Early/FLS,F,salivary gland,PD40669d,Cytotoxic T cells,Cytotoxic T cells
+Early/FLS,F,salivary gland,PD40669e,B cells,B cells
+Early/FLS,F,salivary gland,PD40669f,Plasmablasts,Plasmablasts
+Early/FLS,F,salivary gland,PD40669g,plasma cells,Plasma Cells
+Early/FLS,F,salivary gland,PD40669h,CD19-CD38- cells,CD19-CD38- cells
+Early/FLS,F,pbmc,PD40669i,PBMC - Helper T cells,PBMC - Helper T cells
+Early/FLS,F,pbmc,PD40669j,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+Early/FLS,F,pbmc,PD40669k,PBMC - B cells,PBMC - B cells
+Early/FLS,F,pbmc,PD40669l,PBMC - Plasmablasts,PBMC - Plasmablasts
+Early/FLS,F,pbmc,PD40669m,PMBC - monocyte,PMBC - monocyte
+Early/FLS,F,pbmc,PD40669n,PMBC - NK cell,PMBC - NK cell
+Early/FLS,F,salivary gland,PD42040a,Helper T cells,Helper T cells
+Early/FLS,F,salivary gland,PD42040c,Cytotoxic T cells,Cytotoxic T cells
+Early/FLS,F,salivary gland,PD42040e,Plasmablasts,Plasmablasts
+Early/FLS,F,salivary gland,PD42040f,plasma cells,Plasma Cells
+Early/FLS,F,salivary gland,PD42040g,CD19-CD38- cells,CD19-CD38- cells
+Early/FLS,F,fibroblast,PD42040h,Fibs,Fibs
+PSS FS4-5,F,salivary gland,PD42041a,Helper T cells,Helper T cells
+PSS FS4-5,F,salivary gland,PD42041c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS4-5,F,salivary gland,PD42041d,B cells,B cells
+PSS FS4-5,F,salivary gland,PD42041f,plasma cells,Plasma Cells
+PSS FS4-5,F,fibroblast,PD42041h,Fibs,Fibs
+PSS FS4-5,F,pbmc,PD42041i,PBMC - Helper T cells,PBMC - Helper T cells
+PSS FS4-5,F,pbmc,PD42041j,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+PSS FS4-5,F,pbmc,PD42041k,PBMC - B cells,PBMC - B cells
+PSS FS4-5,F,pbmc,PD42041m,PMBC - monocyte,PMBC - monocyte
+N,F,salivary gland,PD42042a,Bulk T cells,Bulk T cells
+N,F,salivary gland,PD42042c,B cells,B cells
+N,F,salivary gland,PD42042d,Plasmablasts,Plasmablasts
+N,F,salivary gland,PD42042f,CD19-CD38- cells,CD19-CD38- cells
+N,F,fibroblast,PD42042g,Fibs,Fibs
+PSS FS2-3,F,salivary gland,PD42053a,Helper T cells,Helper T cells
+PSS FS2-3,F,salivary gland,PD42053c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,F,salivary gland,PD42053d,B cells,B cells
+PSS FS2-3,F,salivary gland,PD42053e,Plasmablasts,Plasmablasts
+PSS FS2-3,F,salivary gland,PD42053f,plasma cells,Plasma Cells
+PSS FS2-3,F,salivary gland,PD42053g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS2-3,F,fibroblast,PD42053h,Fibs,Fibs
+PSS FS2-3,M,salivary gland,PD42054c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,M,salivary gland,PD42054d,B cells,B cells
+PSS FS2-3,M,salivary gland,PD42054e,Plasmablasts,Plasmablasts
+PSS FS2-3,M,fibroblast,PD42054h,Fibs,Fibs
+PSS FS2-3,M,pbmc,PD42054i,PBMC - Helper T cells,PBMC - Helper T cells
+PSS FS2-3,M,pbmc,PD42054j,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+PSS FS2-3,M,pbmc,PD42054k,PBMC - B cells,PBMC - B cells
+PSS FS2-3,M,pbmc,PD42054l,PBMC - Plasmablasts,PBMC - Plasmablasts
+PSS FS2-3,M,pbmc,PD42054m,PMBC - monocyte,PMBC - monocyte
+PSS FS2-3,M,pbmc,PD42054n,PMBC - NK cell,PMBC - NK cell
+Early/FLS,F,salivary gland,PD42055a,Helper T cells,Helper T cells
+Early/FLS,F,salivary gland,PD42055c,Cytotoxic T cells,Cytotoxic T cells
+Early/FLS,F,salivary gland,PD42055d,B cells,B cells
+Early/FLS,F,salivary gland,PD42055g,CD19-CD38- cells,CD19-CD38- cells
+Early/FLS,F,fibroblast,PD42055h,Fibs,Fibs
+PSS FS4-5,F,salivary gland,PD42056a,Helper T cells,Helper T cells
+PSS FS4-5,F,salivary gland,PD42056c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS4-5,F,salivary gland,PD42056d,B cells,B cells
+PSS FS4-5,F,salivary gland,PD42056e,Plasmablasts,Plasmablasts
+PSS FS4-5,F,salivary gland,PD42056f,plasma cells,Plasma Cells
+PSS FS4-5,F,salivary gland,PD42056g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS4-5,F,fibroblast,PD42056h,Fibs,Fibs
+PSS FS4-6,F,pbmc,PD42056b,PBMC - Helper T cells,PBMC - Helper T cells
+PSS FS4-7,F,pbmc,PD42056i,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+PSS FS4-8,F,pbmc,PD42056j,PBMC - B cells,PBMC - B cells
+PSS FS4-9,F,pbmc,PD42056l,PMBC - monocyte,PMBC - monocyte
+Early/FLS,F,salivary gland,PD42057a,Bulk lymphocytes,Bulk lymphocytes
+Early/FLS,F,salivary gland,PD42057c,Stroma,Stroma
+Early/FLS,F,pbmc,PD42057d,PBMC - Helper T cells,PBMC - Helper T cells
+Early/FLS,F,pbmc,PD42057e,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+Early/FLS,F,pbmc,PD42057f,PBMC - B cells,PBMC - B cells
+Early/FLS,F,pbmc,PD42057g,PBMC - Plasmablasts,PBMC - Plasmablasts
+Early/FLS,F,pbmc,PD42057h,PMBC - monocyte,PMBC - monocyte
+Early/FLS,F,pbmc,PD42057i,PMBC - NK cell,PMBC - NK cell
+?,F,salivary gland,PD42058a,Bulk lymphocytes,Bulk lymphocytes
+,F,salivary gland,PD42058c,Stroma,Stroma
+?,F,salivary gland,PD42059a,Bulk lymphocytes,Bulk lymphocytes
+,F,salivary gland,PD42059c,Stroma,Stroma
+Early/FLS,F,salivary gland,PD42060a,Bulk T cells,Bulk T cells
+Early/FLS,F,salivary gland,PD42060c,B cells,B cells
+Early/FLS,F,salivary gland,PD42060d,Plasmablasts,Plasmablasts
+Early/FLS,F,salivary gland,PD42060e,plasma cells,Plasma Cells
+Early/FLS,F,salivary gland,PD42060f,CD19-CD38- cells,CD19-CD38- cells
+Early/FLS,F,fibroblast,PD42060g,Fibroblasts,Fibroblasts
+Early/FLS,F,fibroblast,PD42060h,Fibroblasts,Fibroblasts
+Early/FLS,F,pbmc,PD42060i,PBMC - Helper T cells,PBMC - Helper T cells
+Early/FLS,F,pbmc,PD42060j,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+Early/FLS,F,pbmc,PD42060k,PBMC - B cells,PBMC - B cells
+Early/FLS,F,pbmc,PD42060l,PBMC - Plasmablasts,PBMC - Plasmablasts
+Early/FLS,F,pbmc,PD42060m,PMBC - monocyte,PMBC - monocyte
+Early/FLS,F,pbmc,PD42060n,PMBC - NK cell,PMBC - NK cell
+PSS FS4-5,F,salivary gland,PD42061a,Helper T cells,Helper T cells
+PSS FS4-5,F,salivary gland,PD42061c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS4-5,F,salivary gland,PD42061e,Plasmablasts,Plasmablasts
+PSS FS4-5,F,salivary gland,PD42061f,plasma cells,Plasma Cells
+PSS FS4-5,F,fibroblast,PD42061h,Fibroblasts,Fibroblasts
+PSS FS4-5,F,fibroblast,PD42061i,Fibroblasts,Fibroblasts
+PSS FS4-5,F,pbmc,PD42061j,PBMC - Helper T cells,PBMC - Helper T cells
+PSS FS4-5,F,pbmc,PD42061k,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+PSS FS4-5,F,pbmc,PD42061l,PBMC - B cells,PBMC - B cells
+PSS FS4-5,F,pbmc,PD42061m,PBMC - Plasmablasts,PBMC - Plasmablasts
+PSS FS4-5,F,pbmc,PD42061n,PMBC - monocyte,PMBC - monocyte
+PSS FS4-5,F,pbmc,PD42061o,PMBC - NK cell,PMBC - NK cell
+N,F,fibroblast,PD42062c,Fibroblasts,Fibroblasts
+N,F,pbmc,PD42062d,PBMC - Helper T cells,PBMC - Helper T cells
+N,F,pbmc,PD42062e,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+N,F,pbmc,PD42062f,PBMC - B cells,PBMC - B cells
+N,F,pbmc,PD42062h,PMBC - monocyte,PMBC - monocyte
+PSS FS2-3,F,salivary gland,PD42063a,Bulk lymphocytes,Bulk lymphocytes
+PSS FS2-3,F,fibroblast,PD42063c,Fibroblasts,Fibroblasts
+PSS FS2-3,F,salivary gland,PD42064a,Helper T cells,Helper T cells
+PSS FS2-3,F,salivary gland,PD42064d,B cells,B cells
+PSS FS2-3,F,salivary gland,PD42064e,Plasmablasts,Plasmablasts
+PSS FS2-3,F,salivary gland,PD42064f,plasma cells,Plasma Cells
+PSS FS2-3,F,salivary gland,PD42064g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS2-3,F,fibroblast,PD42064h,Fibroblasts,Fibroblasts
+N,F,salivary gland,PD42065a,B cells,B cells
+N,F,salivary gland,PD42065c,Plasmablasts,Plasmablasts
+N,F,salivary gland,PD42065d,plasma cells,Plasma Cells
+N,F,fibroblast,PD42065f,Fibroblasts,Fibroblasts
+N,F,pbmc,PD42065g,PBMC - Helper T cells,PBMC - Helper T cells
+N,F,pbmc,PD42065h,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+N,F,pbmc,PD42065i,PBMC - B cells,PBMC - B cells
+N,F,pbmc,PD42065k,PMBC - monocyte,PMBC - monocyte
+Early/FLS,F,salivary gland,PD42066a,Helper T cells,Helper T cells
+Early/FLS,F,salivary gland,PD42066c,Cytotoxic T cells,Cytotoxic T cells
+Early/FLS,F,salivary gland,PD42066d,B cells,B cells
+Early/FLS,F,salivary gland,PD42066e,Plasmablasts,Plasmablasts
+Early/FLS,F,salivary gland,PD42066f,plasma cells,Plasma Cells
+Early/FLS,F,fibroblast,PD42066h,Fibroblasts,Fibroblasts
+Early/FLS,F,pbmc,PD42066i,PBMC - Helper T cells,PBMC - Helper T cells
+Early/FLS,F,pbmc,PD42066j,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+Early/FLS,F,pbmc,PD42066k,PBMC - B cells,PBMC - B cells
+Early/FLS,F,pbmc,PD42066l,PBMC - Plasmablasts,PBMC - Plasmablasts
+Early/FLS,F,pbmc,PD42066m,PMBC - monocyte,PMBC - monocyte
+Early/FLS,F,pbmc,PD42066n,PMBC - NK cell,PMBC - NK cell
+PSS FS2-3,F,salivary gland,PD42067a,Helper T cells,Helper T cells
+PSS FS2-3,F,salivary gland,PD42067f,plasma cells,Plasma Cells
+PSS FS2-3,F,salivary gland,PD42067g,CD19-CD38- cells,CD19-CD38- cells
+Early/FLS,F,salivary gland,PD42068a,Helper T cells,Helper T cells
+Early/FLS,F,salivary gland,PD42068c,Cytotoxic T cells,Cytotoxic T cells
+Early/FLS,F,salivary gland,PD42068d,B cells,B cells
+Early/FLS,F,salivary gland,PD42068e,Plasmablasts,Plasmablasts
+Early/FLS,F,salivary gland,PD42068f,plasma cells,Plasma Cells
+Early/FLS,F,salivary gland,PD42068g,CD19-CD38- cells,CD19-CD38- cells
+Early/FLS,F,fibroblast,PD42068h,Fibroblasts,Fibroblasts
+Early/FLS,F,pbmc,PD42068i,PBMC - Helper T cells,PBMC - Helper T cells
+Early/FLS,F,pbmc,PD42068j,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+Early/FLS,F,pbmc,PD42068k,PBMC - B cells,PBMC - B cells
+Early/FLS,F,pbmc,PD42068l,PBMC - Plasmablasts,PBMC - Plasmablasts
+Early/FLS,F,pbmc,PD42068m,PMBC - monocyte,PMBC - monocyte
+Early/FLS,F,pbmc,PD42068n,PMBC - NK cell,PMBC - NK cell
+N,M,salivary gland,PD42069a,Bulk lymphocytes,Bulk lymphocytes
+N,M,fibroblast,PD42069c,Fibroblasts,Fibroblasts
+N,M,salivary gland,PD42069d,Stroma,Stroma
+N,M,pbmc,PD42069e,PBMC - Helper T cells,PBMC - Helper T cells
+N,M,pbmc,PD42069f,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+N,M,pbmc,PD42069g,PBMC - B cells,PBMC - B cells
+N,M,pbmc,PD42069h,PBMC - Plasmablasts,PBMC - Plasmablasts
+N,M,pbmc,PD42069i,PMBC - monocyte,PMBC - monocyte
+N,M,pbmc,PD42069j,PMBC - NK cell,PMBC - NK cell
+PSS FS2-3,F,salivary gland,PD42070a,Bulk lymphocytes,Bulk lymphocytes
+PSS FS2-3,F,salivary gland,PD42070c,Helper T cells,Helper T cells
+PSS FS2-3,F,salivary gland,PD42070d,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,F,salivary gland,PD42070e,B cells,B cells
+PSS FS2-3,F,salivary gland,PD42070f,Plasmablasts,Plasmablasts
+PSS FS2-3,F,salivary gland,PD42070g,plasma cells,Plasma Cells
+PSS FS2-3,F,salivary gland,PD42070h,CD19-CD38- cells,CD19-CD38- cells
+PSS FS2-3,F,fibroblast,PD42070i,Fibroblasts,Fibroblasts
+PSS FS2-3,F,salivary gland,PD42070j,Storma,Stroma
+PSS FS2-3,F,pbmc,PD42070k,PBMC - Helper T cells,PBMC - Helper T cells
+PSS FS2-3,F,pbmc,PD42070l,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+PSS FS2-3,F,pbmc,PD42070m,PBMC - B cells,PBMC - B cells
+PSS FS2-3,F,pbmc,PD42070o,PMBC - monocyte,PMBC - monocyte
+PSS FS2-3,F,salivary gland,PD42071a,Helper T cells,Helper T cells
+PSS FS2-3,F,salivary gland,PD42071c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,F,salivary gland,PD42071d,B cells,B cells
+PSS FS2-3,F,salivary gland,PD42071f,plasma cells,Plasma Cells
+PSS FS2-3,F,fibroblast,PD42071h,Fibroblasts,Fibroblasts
+PSS FS2-3,F,pbmc,PD42071j,PBMC - Helper T cells,PBMC - Helper T cells
+PSS FS2-3,F,pbmc,PD42071l,PBMC - B cells,PBMC - B cells
+PSS FS2-3,F,pbmc,PD42071n,PMBC - monocyte,PMBC - monocyte
+PSS FS2-3,F,pbmc,PD42071o,PMBC - NK cell,PMBC - NK cell
+PSS FS2-3,M,salivary gland,PD42072a,Helper T cells,Helper T cells
+PSS FS2-3,M,salivary gland,PD42072c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,M,salivary gland,PD42072d,B cells,B cells
+PSS FS2-3,M,salivary gland,PD42072e,Plasmablasts,Plasmablasts
+PSS FS2-3,M,salivary gland,PD42072f,plasma cells,Plasma Cells
+PSS FS2-3,M,salivary gland,PD42072g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS2-3,M,fibroblast,PD42072h,Fibroblasts,Fibroblasts
+PSS FS2-3,M,salivary gland,PD42072i,Stroma,Stroma
+PSS FS2-3,F,salivary gland,PD42073a,Helper T cells,Helper T cells
+PSS FS2-3,F,salivary gland,PD42073c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,F,salivary gland,PD42073d,B cells,B cells
+PSS FS2-3,F,salivary gland,PD42073e,Plasmablasts,Plasmablasts
+PSS FS2-3,F,fibroblast,PD42073h,Fibroblasts,Fibroblasts
+PSS FS2-3,F,pbmc,PD42073i,PBMC - Helper T cells,PBMC - Helper T cells
+PSS FS2-3,F,pbmc,PD42073j,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+PSS FS2-3,F,pbmc,PD42073k,PBMC - B cells,PBMC - B cells
+PSS FS2-3,F,pbmc,PD42073l,PBMC - Plasmablasts,PBMC - Plasmablasts
+PSS FS2-3,F,pbmc,PD42073m,PMBC - monocyte,PMBC - monocyte
+PSS FS2-3,F,pbmc,PD42073n,PMBC - NK cell,PMBC - NK cell
+PSS FS2-3,F,salivary gland,PD42075a,Helper T cells,Helper T cells
+PSS FS2-3,F,salivary gland,PD42075c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,F,salivary gland,PD42075d,B cells,B cells
+PSS FS2-3,F,salivary gland,PD42075e,Plasmablasts,Plasmablasts
+PSS FS2-3,F,salivary gland,PD42075f,plasma cells,Plasma Cells
+PSS FS2-3,F,salivary gland,PD42075g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS2-3,F,fibroblast,PD42075h,Fibroblasts,Fibroblasts
+Early/FLS,F,salivary gland,PD42076a,Helper T cells,Helper T cells
+Early/FLS,F,salivary gland,PD42076c,Cytotoxic T cells,Cytotoxic T cells
+Early/FLS,F,salivary gland,PD42076d,B cells,B cells
+Early/FLS,F,salivary gland,PD42076e,Plasmablasts,Plasmablasts
+Early/FLS,F,salivary gland,PD42076f,plasma cells,Plasma Cells
+Early/FLS,F,salivary gland,PD42076g,CD19-CD38- cells,CD19-CD38- cells
+Early/FLS,F,fibroblast,PD42076h,Fibroblasts,Fibroblasts
+PSS FS2-3,F,salivary gland,PD42077a,Helper T cells,Helper T cells
+PSS FS2-3,F,salivary gland,PD42077c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,F,salivary gland,PD42077d,B cells,B cells
+PSS FS2-3,F,salivary gland,PD42077e,Plasmablasts,Plasmablasts
+PSS FS2-3,F,salivary gland,PD42077f,plasma cells,Plasma Cells
+PSS FS2-3,F,salivary gland,PD42077g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS2-3,F,fibroblast,PD42077h,Fibroblasts,Fibroblasts
+PSS FS4-5,F,salivary gland,PD42078a,Helper T cells,Helper T cells
+PSS FS4-5,F,salivary gland,PD42078c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS4-5,F,salivary gland,PD42078d,B cells,B cells
+PSS FS4-5,F,salivary gland,PD42078e,Plasmablasts,Plasmablasts
+PSS FS4-5,F,salivary gland,PD42078f,plasma cells,Plasma Cells
+PSS FS4-5,F,salivary gland,PD42078g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS4-5,F,fibroblast,PD42078h,Fibroblasts,Fibroblasts
+PSS FS2-3,F,salivary gland,PD42079a,Helper T cells,Helper T cells
+PSS FS2-3,F,salivary gland,PD42079c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,F,salivary gland,PD42079d,B cells,B cells
+PSS FS2-3,F,salivary gland,PD42079e,Plasmablasts,Plasmablasts
+PSS FS2-3,F,salivary gland,PD42079f,plasma cells,Plasma Cells
+PSS FS2-3,F,salivary gland,PD42079g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS2-3,F,fibroblast,PD42079h,Fibroblasts,Fibroblasts
+PSS FS2-3,F,pbmc,PD42079j,PBMC - Helper T cells,PBMC - Helper T cells
+PSS FS2-3,F,pbmc,PD42079l,PBMC - B cells,PBMC - B cells
+PSS FS2-3,F,pbmc,PD42079n,PMBC - monocyte,PMBC - monocyte
+PSS FS4-5,F,fibroblast,PD42080f,Fibroblasts,Fibroblasts
+PSS FS4-5,F,salivary gland,PD42080g,Stroma,Stroma
+N,M,salivary gland,PD42081c,Cytotoxic T cells,Cytotoxic T cells
+N,M,salivary gland,PD42081e,Plasmablasts,Plasmablasts
+N,M,salivary gland,PD42081f,plasma cells,Plasma Cells
+N,M,salivary gland,PD42081g,CD19-CD38- cells,CD19-CD38- cells
+N,M,fibroblast,PD42081h,Fibroblasts,Fibroblasts
+N,M,pbmc,PD42081j,PBMC - Helper T cells,PBMC - Helper T cells
+N,M,pbmc,PD42081k,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+N,M,pbmc,PD42081l,PBMC - B cells,PBMC - B cells
+N,M,pbmc,PD42081m,PBMC - Plasmablasts,PBMC - Plasmablasts
+N,M,pbmc,PD42081o,PMBC - NK cell,PMBC - NK cell
+Early/FLS,M,salivary gland,PD42082a,Helper T cells,Helper T cells
+Early/FLS,M,salivary gland,PD42082c,Cytotoxic T cells,Cytotoxic T cells
+Early/FLS,M,salivary gland,PD42082d,Bulk B and plasma cells,bulk B cells
+Early/FLS,M,salivary gland,PD42082e,CD19-CD38- cells,CD19-CD38- cells
+Early/FLS,M,fibroblast,PD42082f,Fibroblasts,Fibroblasts
+Early/FLS,M,salivary gland,PD42082g,Stroma,Stroma
+PSS FS2-3,F,salivary gland,PD42083a,Helper T cells,Helper T cells
+PSS FS2-3,F,salivary gland,PD42083c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,F,salivary gland,PD42083d,B cells,B cells
+PSS FS2-3,F,salivary gland,PD42083f,plasma cells,Plasma Cells
+PSS FS2-3,F,salivary gland,PD42083g,CD19-CD38- cells,CD19-CD38- cells
+N,F,salivary gland,PD42084a,Helper T cells,Helper T cells
+N,F,salivary gland,PD42084c,Cytotoxic T cells,Cytotoxic T cells
+N,F,salivary gland,PD42084d,B cells,B cells
+N,F,salivary gland,PD42084e,Plasmablasts,Plasmablasts
+N,F,salivary gland,PD42084g,CD19-CD38- cells,CD19-CD38- cells
+N,F,fibroblast,PD42084h,Fibroblasts,Fibroblasts
+N,F,salivary gland,PD42084i,Stroma,Stroma
+N,F,pbmc,PD42084j,PBMC - Helper T cells,PBMC - Helper T cells
+N,F,pbmc,PD42084k,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+N,F,pbmc,PD42084l,PBMC - B cells,PBMC - B cells
+N,F,pbmc,PD42084m,PBMC - Plasmablasts,PBMC - Plasmablasts
+N,F,pbmc,PD42084o,PMBC - NK cell,PMBC - NK cell
+N,F,salivary gland,PD42085a,Helper T cells,Helper T cells
+N,F,salivary gland,PD42085c,Cytotoxic T cells,Cytotoxic T cells
+N,F,salivary gland,PD42085d,B cells,B cells
+N,F,salivary gland,PD42085e,Plasmablasts,Plasmablasts
+N,F,salivary gland,PD42085f,plasma cells,Plasma Cells
+N,F,salivary gland,PD42085g,CD19-CD38- cells,CD19-CD38- cells
+N,F,fibroblast,PD42085h,Fibroblasts,Fibroblasts
+N,F,salivary gland,PD42085i,Stroma,Stroma
+N,F,pbmc,PD42085j,PBMC - Helper T cells,PBMC - Helper T cells
+N,F,pbmc,PD42085k,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+N,F,pbmc,PD42085l,PBMC - B cells,PBMC - B cells
+N,F,pbmc,PD42085m,PBMC - Plasmablasts,PBMC - Plasmablasts
+N,F,pbmc,PD42085o,PMBC - NK cell,PMBC - NK cell
+PSS FS2-3,M,salivary gland,PD42086a,Helper T cells,Helper T cells
+PSS FS2-3,M,salivary gland,PD42086c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,M,salivary gland,PD42086d,B cells,B cells
+PSS FS2-3,M,salivary gland,PD42086e,Plasmablasts,Plasmablasts
+PSS FS2-3,M,salivary gland,PD42086g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS2-3,M,pbmc,PD42086j,PBMC - Helper T cells,PBMC - Helper T cells
+PSS FS2-3,M,pbmc,PD42086k,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+PSS FS2-3,M,pbmc,PD42086l,PBMC - B cells,PBMC - B cells
+PSS FS2-3,M,pbmc,PD42086m,PBMC - Plasmablasts,PBMC - Plasmablasts
+PSS FS2-3,M,pbmc,PD42086n,PMBC - monocyte,PMBC - monocyte
+PSS FS2-3,M,pbmc,PD42086o,PMBC - NK cell,PMBC - NK cell
+PSS FS4-5,M,salivary gland,PD42087a,Helper T cells,Helper T cells
+PSS FS4-5,M,salivary gland,PD42087d,B cells,B cells
+PSS FS4-5,M,salivary gland,PD42087g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS4-5,M,fibroblast,PD42087h,Fibroblasts,Fibroblasts
+PSS FS2-3,F,salivary gland,PD42088c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,F,salivary gland,PD42088e,Plasmablasts,Plasmablasts
+PSS FS2-3,F,salivary gland,PD42088g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS2-3,F,salivary gland,PD42088i,Stroma,Stroma
+PSS FS2-3,F,pbmc,PD42088j,PBMC - Helper T cells,PBMC - Helper T cells
+PSS FS2-3,F,pbmc,PD42088k,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+PSS FS2-3,F,pbmc,PD42088l,PBMC - B cells,PBMC - B cells
+PSS FS2-3,F,pbmc,PD42088m,PBMC - Plasmablasts,PBMC - Plasmablasts
+PSS FS2-3,F,pbmc,PD42088n,PMBC - monocyte,PMBC - monocyte
+PSS FS2-3,F,pbmc,PD42088o,PMBC - NK cell,PMBC - NK cell
+PSS FS4-5,F,salivary gland,PD42089a,Helper T cells,Helper T cells
+PSS FS4-5,F,salivary gland,PD42089c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS4-5,F,salivary gland,PD42089d,B cells,B cells
+PSS FS4-5,F,salivary gland,PD42089f,plasma cells,Plasma Cells
+PSS FS4-5,F,salivary gland,PD42089g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS4-5,F,fibroblast,PD42089h,Fibroblasts,Fibroblasts
+PSS FS4-5,F,pbmc,PD42089j,PBMC - Helper T cells,PBMC - Helper T cells
+PSS FS4-5,F,pbmc,PD42089k,PBMC - Cytotoxic T cells,PBMC - Cytotoxic T cells
+PSS FS4-5,F,pbmc,PD42089l,PBMC - B cells,PBMC - B cells
+PSS FS4-5,F,pbmc,PD42089n,PMBC - monocyte,PMBC - monocyte
+PSS FS2-3,F,salivary gland,PD42090a,Helper T cells,Helper T cells
+PSS FS2-3,F,salivary gland,PD42090c,Cytotoxic T cells,Cytotoxic T cells
+PSS FS2-3,F,salivary gland,PD42090d,B cells,B cells
+PSS FS2-3,F,salivary gland,PD42090f,plasma cells,Plasma Cells
+PSS FS2-3,F,salivary gland,PD42090g,CD19-CD38- cells,CD19-CD38- cells
+PSS FS2-3,F,fibroblast,PD42090h,Fibroblasts,Fibroblasts
+PSS FS2-3,F,salivary gland,PD42090i,Stroma,Stroma

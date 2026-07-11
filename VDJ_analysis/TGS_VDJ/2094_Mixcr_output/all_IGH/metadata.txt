@@ -1,0 +1,131 @@
+Sample	SeqX	CellType	CellGroup	Origin	FocusGroup	FocusScore	Diagnosis
+PD30967b_hum_IGH_clones	275	Plasmablasts	B	biopsy	FS2-3	3	Yes
+PD30967h_hum_IGH_clones	503	Plasma	B	biopsy	FS2-3	3	Yes
+PD30967k_hum_IGH_clones	416	B Cells	B	biopsy	FS2-3	3	Yes
+PD30968b_hum_IGH_clones	435	Plasma	B	biopsy	FS2-3	2	Yes
+PD30968d_hum_IGH_clones	453	Bulk_B	B	biopsy	FS2-3	2	Yes
+PD30969b_hum_IGH_clones	277	B Cells	B	biopsy	NonPSS	0	No
+PD30969c_hum_IGH_clones	466	Plasmablasts	B	biopsy	NonPSS	0	No
+PD30969f_hum_IGH_clones	504	Plasma	B	biopsy	NonPSS	0	No
+PD30973b_hum_IGH_clones	472	Bulk_B	B	biopsy	Early/FLS	0	Yes
+PD30975b_hum_IGH_clones	500	Plasmablasts	B	biopsy	NonPSS	0	No
+PD30977b_hum_IGH_clones	360	Plasma	B	biopsy	FS4-5	4	Yes
+PD40668e_hum_IGH_clones	131	B Cells	B	biopsy	FS4-5	5	Yes
+PD40668f_hum_IGH_clones	9	Plasmablasts	B	biopsy	FS4-5	5	Yes
+PD40668g_hum_IGH_clones	99	Plasma	B	biopsy	FS4-5	5	Yes
+PD40668k_hum_IGH_clones	503	P_B	B	PBMC	FS4-5	5	Yes
+PD40668l_hum_IGH_clones	86	P_Plasmablast	B	PBMC	FS4-5	5	Yes
+PD40669e_hum_IGH_clones	81	B Cells	B	biopsy	Early/FLS	1	Yes
+PD40669f_hum_IGH_clones	52	Plasmablasts	B	biopsy	Early/FLS	1	Yes
+PD40669g_hum_IGH_clones	90	Plasma	B	biopsy	Early/FLS	1	Yes
+PD40669k_hum_IGH_clones	64	P_B	B	PBMC	Early/FLS	1	Yes
+PD40669l_hum_IGH_clones	65	P_Plasmablast	B	PBMC	Early/FLS	1	Yes
+PD42040e_hum_IGH_clones	38	Plasmablasts	B	biopsy	Early/FLS	0	Amb
+PD42040f_hum_IGH_clones	40	Plasma	B	biopsy	Early/FLS	0	Amb
+PD42041d_hum_IGH_clones	73	B Cells	B	biopsy	FS4-5	4	Yes
+PD42041f_hum_IGH_clones	65	Plasma	B	biopsy	FS4-5	4	Yes
+PD42041k_hum_IGH_clones	319	P_B	B	PBMC	FS4-5	4	Yes
+PD42042c_hum_IGH_clones	44	B Cells	B	biopsy	NonPSS	0	No
+PD42042d_hum_IGH_clones	54	Plasmablasts	B	biopsy	NonPSS	0	No
+PD42053d_hum_IGH_clones	161	B Cells	B	biopsy	FS2-3	2	Yes
+PD42053e_hum_IGH_clones	106	Plasmablasts	B	biopsy	FS2-3	2	Yes
+PD42053f_hum_IGH_clones	145	Plasma	B	biopsy	FS2-3	2	Yes
+PD42054d_hum_IGH_clones	43	B Cells	B	biopsy	FS2-3	2	Yes
+PD42054e_hum_IGH_clones	58	Plasmablasts	B	biopsy	FS2-3	2	Yes
+PD42054k_hum_IGH_clones	292	P_B	B	PBMC	FS2-3	2	Yes
+PD42054l_hum_IGH_clones	27	P_Plasmablast	B	PBMC	FS2-3	2	Yes
+PD42055d_hum_IGH_clones	20	B Cells	B	biopsy	Early/FLS	0	Amb
+PD42056d_hum_IGH_clones	34	B Cells	B	biopsy	FS4-5	5	Yes
+PD42056e_hum_IGH_clones	75	Plasmablasts	B	biopsy	FS4-5	5	Yes
+PD42056f_hum_IGH_clones	78	Plasma	B	biopsy	FS4-5	5	Yes
+PD42057f_hum_IGH_clones	82	P_B	B	PBMC	Early/FLS	1	Amb
+PD42057g_hum_IGH_clones	20	P_Plasmablast	B	PBMC	Early/FLS	1	Amb
+PD42060c_hum_IGH_clones	37	B Cells	B	biopsy	Early/FLS	1	Amb
+PD42060d_hum_IGH_clones	34	Plasmablasts	B	biopsy	Early/FLS	1	Amb
+PD42060e_hum_IGH_clones	53	Plasma	B	biopsy	Early/FLS	1	Amb
+PD42060k_hum_IGH_clones	361	P_B	B	PBMC	Early/FLS	1	Amb
+PD42060l_hum_IGH_clones	112	P_Plasmablast	B	PBMC	Early/FLS	1	Amb
+PD42061e_hum_IGH_clones	78	Plasmablasts	B	biopsy	FS4-5	4	Yes
+PD42061f_hum_IGH_clones	21	Plasma	B	biopsy	FS4-5	4	Yes
+PD42061l_hum_IGH_clones	84	P_B	B	PBMC	FS4-5	4	Yes
+PD42061m_hum_IGH_clones	117	P_Plasmablast	B	PBMC	FS4-5	4	Yes
+PD42062f_hum_IGH_clones	319	P_B	B	PBMC	NonPSS	0	No
+PD42064d_hum_IGH_clones	49	B Cells	B	biopsy	FS2-3	2	Yes
+PD42064e_hum_IGH_clones	51	Plasmablasts	B	biopsy	FS2-3	2	Yes
+PD42064f_hum_IGH_clones	75	Plasma	B	biopsy	FS2-3	2	Yes
+PD42065a_hum_IGH_clones	37	B Cells	B	biopsy	NonPSS	0	No
+PD42065c_hum_IGH_clones	31	Plasmablasts	B	biopsy	NonPSS	0	No
+PD42065d_hum_IGH_clones	46	Plasma	B	biopsy	NonPSS	0	No
+PD42065i_hum_IGH_clones	459	P_B	B	PBMC	NonPSS	0	No
+PD42066d_hum_IGH_clones	27	B Cells	B	biopsy	Early/FLS	0	Amb
+PD42066e_hum_IGH_clones	36	Plasmablasts	B	biopsy	Early/FLS	0	Amb
+PD42066f_hum_IGH_clones	65	Plasma	B	biopsy	Early/FLS	0	Amb
+PD42066k_hum_IGH_clones	232	P_B	B	PBMC	Early/FLS	0	Amb
+PD42066l_hum_IGH_clones	150	P_Plasmablast	B	PBMC	Early/FLS	0	Amb
+PD42067f_hum_IGH_clones	36	Plasma	B	biopsy	FS2-3	2	Yes
+PD42068d_hum_IGH_clones	42	B Cells	B	biopsy	Early/FLS	1	Amb
+PD42068e_hum_IGH_clones	27	Plasmablasts	B	biopsy	Early/FLS	1	Amb
+PD42068f_hum_IGH_clones	69	Plasma	B	biopsy	Early/FLS	1	Amb
+PD42068k_hum_IGH_clones	143	P_B	B	PBMC	Early/FLS	1	Amb
+PD42068l_hum_IGH_clones	287	P_Plasmablast	B	PBMC	Early/FLS	1	Amb
+PD42069g_hum_IGH_clones	180	P_B	B	PBMC	NonPSS	0	No
+PD42069h_hum_IGH_clones	67	P_Plasmablast	B	PBMC	NonPSS	0	No
+PD42070e_hum_IGH_clones	190	B Cells	B	biopsy	FS2-3	3	Yes
+PD42070f_hum_IGH_clones	39	Plasmablasts	B	biopsy	FS2-3	3	Yes
+PD42070g_hum_IGH_clones	39	Plasma	B	biopsy	FS2-3	3	Yes
+PD42070m_hum_IGH_clones	124	P_B	B	PBMC	FS2-3	3	Yes
+PD42071d_hum_IGH_clones	154	B Cells	B	biopsy	FS2-3	3	Yes
+PD42071f_hum_IGH_clones	60	Plasma	B	biopsy	FS2-3	3	Yes
+PD42071l_hum_IGH_clones	108	P_B	B	PBMC	FS2-3	3	Yes
+PD42072d_hum_IGH_clones	146	B Cells	B	biopsy	FS2-3	3	Yes
+PD42072e_hum_IGH_clones	73	Plasmablasts	B	biopsy	FS2-3	3	Yes
+PD42072f_hum_IGH_clones	32	Plasma	B	biopsy	FS2-3	3	Yes
+PD42073d_hum_IGH_clones	147	B Cells	B	biopsy	FS2-3	3	Yes
+PD42073e_hum_IGH_clones	109	Plasmablasts	B	biopsy	FS2-3	3	Yes
+PD42073k_hum_IGH_clones	35	P_B	B	PBMC	FS2-3	3	Yes
+PD42073l_hum_IGH_clones	79	P_Plasmablast	B	PBMC	FS2-3	3	Yes
+PD42075d_hum_IGH_clones	64	B Cells	B	biopsy	FS2-3	3	Yes
+PD42075e_hum_IGH_clones	65	Plasmablasts	B	biopsy	FS2-3	3	Yes
+PD42075f_hum_IGH_clones	75	Plasma	B	biopsy	FS2-3	3	Yes
+PD42076d_hum_IGH_clones	68	B Cells	B	biopsy	Early/FLS	1	Amb
+PD42076e_hum_IGH_clones	70	Plasmablasts	B	biopsy	Early/FLS	1	Amb
+PD42076f_hum_IGH_clones	271	Plasma	B	biopsy	Early/FLS	1	Amb
+PD42077d_hum_IGH_clones	95	B Cells	B	biopsy	FS2-3	3	Yes
+PD42077e_hum_IGH_clones	234	Plasmablasts	B	biopsy	FS2-3	3	Yes
+PD42077f_hum_IGH_clones	234	Plasma	B	biopsy	FS2-3	3	Yes
+PD42078d_hum_IGH_clones	214	B Cells	B	biopsy	FS4-5	4	Yes
+PD42078e_hum_IGH_clones	79	Plasmablasts	B	biopsy	FS4-5	4	Yes
+PD42078f_hum_IGH_clones	65	Plasma	B	biopsy	FS4-5	4	Yes
+PD42079d_hum_IGH_clones	161	B Cells	B	biopsy	FS2-3	2	Yes
+PD42079e_hum_IGH_clones	132	Plasmablasts	B	biopsy	FS2-3	2	Yes
+PD42079f_hum_IGH_clones	110	Plasma	B	biopsy	FS2-3	2	Yes
+PD42079l_hum_IGH_clones	62	P_B	B	PBMC	FS2-3	2	Yes
+PD42081e_hum_IGH_clones	21	Plasmablasts	B	biopsy	NonPSS	0	N
+PD42081f_hum_IGH_clones	32	Plasma	B	biopsy	NonPSS	0	N
+PD42081l_hum_IGH_clones	52	P_B	B	PBMC	NonPSS	0	N
+PD42081m_hum_IGH_clones	170	P_Plasmablast	B	PBMC	NonPSS	0	N
+PD42082d_hum_IGH_clones	48	Bulk_B	B	biopsy	Early/FLS	1	Yes
+PD42083d_hum_IGH_clones	141	B Cells	B	biopsy	FS2-3	2	Yes
+PD42083f_hum_IGH_clones	20	Plasma	B	biopsy	FS2-3	2	Yes
+PD42084d_hum_IGH_clones	36	B Cells	B	biopsy	NonPSS	1	No
+PD42084e_hum_IGH_clones	34	Plasmablasts	B	biopsy	NonPSS	1	No
+PD42084l_hum_IGH_clones	25	P_B	B	PBMC	NonPSS	1	No
+PD42084m_hum_IGH_clones	72	P_Plasmablast	B	PBMC	NonPSS	1	No
+PD42085d_hum_IGH_clones	123	B Cells	B	biopsy	NonPSS	1	No
+PD42085e_hum_IGH_clones	27	Plasmablasts	B	biopsy	NonPSS	1	No
+PD42085f_hum_IGH_clones	16	Plasma	B	biopsy	NonPSS	1	No
+PD42085l_hum_IGH_clones	145	P_B	B	PBMC	NonPSS	1	No
+PD42085m_hum_IGH_clones	50	P_Plasmablast	B	PBMC	NonPSS	1	No
+PD42086d_hum_IGH_clones	137	B Cells	B	biopsy	FS2-3	2	Yes
+PD42086e_hum_IGH_clones	31	Plasmablasts	B	biopsy	FS2-3	2	Yes
+PD42086l_hum_IGH_clones	21	P_B	B	PBMC	FS2-3	2	Yes
+PD42086m_hum_IGH_clones	123	P_Plasmablast	B	PBMC	FS2-3	2	Yes
+PD42087d_hum_IGH_clones	47	B Cells	B	biopsy	FS4-5	4	Yes
+PD42088e_hum_IGH_clones	45	Plasmablasts	B	biopsy	FS2-3	3	Yes
+PD42088l_hum_IGH_clones	100	P_B	B	PBMC	FS2-3	3	Yes
+PD42088m_hum_IGH_clones	109	P_Plasmablast	B	PBMC	FS2-3	3	Yes
+PD42089d_hum_IGH_clones	68	B Cells	B	biopsy	FS4-5	4	Yes
+PD42089f_hum_IGH_clones	56	Plasma	B	biopsy	FS4-5	4	Yes
+PD42089l_hum_IGH_clones	155	P_B	B	PBMC	FS4-5	4	Yes
+PD42090d_hum_IGH_clones	163	B Cells	B	biopsy	FS2-3	2	Yes
+PD42090f_hum_IGH_clones	16	Plasma	B	biopsy	FS2-3	2	Yes
