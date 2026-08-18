@@ -1,4 +1,4 @@
-This directory contains the code running dN/dS and pairwise dN/dS analysis. 
+This directory contains code for running dN/dS and pairwise dN/dS analysis. 
 
 The dNdS_Nanoseq_Exome.R script contains the basic code for dN/dS analysis using the whole-exome variant calls which are provided. 
 

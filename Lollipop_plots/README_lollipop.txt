@@ -1,1 +1,0 @@
-This code describes how to use the maftools R library to make lollipop plots using the provided text file as input for the mutations to plot.

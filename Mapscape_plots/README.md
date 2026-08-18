@@ -1,11 +1,11 @@
-README Mapscape
+The Mapscape R package was used to visually map clones onto histological images.
 
-Example code provided for patient PD42769
-Input files in PD42769 folder
+For more details about Mapscape, please refer to https://github.com/shahcompbio/mapscape and https://bioconductor.posit.co/packages/3.24/bioc/vignettes/mapscape/inst/doc/mapscape_vignette.html
 
-Mapscape_files may be needed to run code locally
+Example input files from the manuscript are provided for patient PD42769.
 
-Inputs needed:
+Input files in PD42769 folder:
+
 1. Clonal prevalence file:
     sample_id   clone_id     		clonal_prev
     lo0057      PD42769_24     		0.07865169\
@@ -40,4 +40,5 @@ Specific color palettes corresponding to each clone and its descendants
  PD42769a_CD20_8 	#CCE1B3
  PD42769a_lo0073 	#E5F0D9
 
-For full Mapscape documentation see https://bioconductor.posit.co/packages/3.24/bioc/vignettes/mapscape/inst/doc/mapscape_vignette.html
+Mapscape_files may be needed to run code locally.
+
